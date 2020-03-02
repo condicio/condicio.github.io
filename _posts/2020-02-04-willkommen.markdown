@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Willkommen bei Glücklich oder Normal!"
+title:  "Willkommen!"
 categories: [ Verlag ]
 image: assets/images/blind-1200x675.jpg
 ---
