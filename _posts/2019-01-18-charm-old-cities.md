@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  Über Glücklich oder Normal
 author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+categories: [Verlag]
+image: assets/images/blind-1200x675.jpg
 tags: [sticky]
 ---
 
