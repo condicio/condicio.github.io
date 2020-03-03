@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wie man auch Glück reich wird"
+title:  "Wie man auch ohne Glück reich wird"
 categories: [ Verlag ]
 image: assets/images/paperbackmockup_bodybuilding_gumroad.png
 ---
