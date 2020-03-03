@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Geheimnisse über Menschen: Eine kurze und gefährliche Einführung zum Werk René Girards"
-categories: [ Bücher ]
+categories: [ Buch ]
 image: assets/images/paperbackmockup_bodybuilding_gumroad.png
 date: 2020-03-23T10:20:00Z
 ---
