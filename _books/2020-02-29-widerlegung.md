@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Die Widerlegung der Externen Welt"
-categories: [ Verlag ]
+categories: [ Buch ]
 image: assets/images/paperbackmockup_bodybuilding_gumroad.png
 ---
 
