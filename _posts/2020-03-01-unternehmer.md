@@ -25,7 +25,7 @@ Als Unternehmer dagegen kann man sich völlig frei Problemen und Themen widmen d
 
 Angestellte werden zwangsläufig unter Wert bezahlt. Der Chef eines Unternehmens wird, zumindest langfristig, sicherlich niemanden in der Firma behalten, der mehr verdient als er erwirtschaftet. Machst du dich aber selbständig, eliminierst du effektiv den Mittelsmann und wirst immer entsprechend deinem Wert für andere Menschen entlohnt. 
 
-![unternehmer]({{ site.url }}/assets/unternehmer.png)
+![unternehmer]({{ site.url }}/assets/images/unternehmer.png)
 
  Aber das vielleicht stärkste Argument warum du Unternehmer werden solltest, ist, dass das Unternehmertum Teil der menschlichen DNA ist. Wie der Friedensnobelpreisträger Muhammad Yunus [zusammenfasste](https://www.forbes.com/100-greatest-business-minds/person/muhammad-yunus):
 
