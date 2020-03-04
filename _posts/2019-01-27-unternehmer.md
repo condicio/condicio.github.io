@@ -3,7 +3,7 @@ layout: post
 title:  "Ja, du solltest Unternehmer sein"
 author: sal
 categories: [ Unternehmertum, Inspiration]
-image: assets/images/2.jpg
+image: assets/images/distel.jpg
 --- 
 
 Die meisten klugen Köpfe heutzutage verbringen leider den größten Teil ihrer Zeit mit trivialen Aufgaben, in Unternehmen in denen sie unsichtbar bleiben. Viele von ihnen wissen, dass sie ihre Zeit mit eigentlich sinnlosen Aufgaben verbringen. Oftmals ist es für die Karriere förderlicher wenn man sich darauf fokussiert produktiv zu erscheinen, anstatt wirklich produktiv zu sein. Wertgeschätzt wird was sichtbar ist, nicht was sinnvoll ist. 
