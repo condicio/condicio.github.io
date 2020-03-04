@@ -5,14 +5,34 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+Die meisten klugen Köpfe heutzutage verbringen leider den größten Teil ihrer Zeit mit trivialen Aufgaben, in Unternehmen in denen sie unsichtbar bleiben. Viele von ihnen wissen, dass sie ihre Zeit mit eigentlich sinnlosen Aufgaben verbringen. Oftmals ist es für die Karriere förderlicher wenn man sich darauf fokussiert produktiv zu erscheinen, anstatt wirklich produktiv zu sein. Wertgeschätzt wird was sichtbar ist, nicht was sinnvoll ist. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Kreativität und Arbeit an wirklich neuen Ideen sind oftmals hinderlich für die Karriere. Neuen Ideen sind extrem fragil und oftmals riskant. Einer näheren Prüfung halten sie im Frühstadium selten stand. Aus diesem Grund werden viele guten Ideen oftmals todgeredet bevor sie eine echte Chance haben sich vollständig zu entfalten. 
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Wie Peter Thiel treffend [beobachtet](https://www.businessinsider.com/peter-thiel-talk-in-london-on-business-and-politics-2015-4?r=DE&IR=T):
 
+> "Es gibt ein seltsames Phänomen im Silicon Valley, dass eine große Anzahl erfolgreicher Unternehmensgründer das Asperger-Syndrom zu haben scheint. Das kann man als Anklage gegen die Gesellschaft interpretieren. Was ist das für eine Gesellschaft, in der man, wenn man kein Asperger-Syndrom hat, von den Ideen abgebracht wird, bevor sie sich vollständig entwickelt haben?"
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+Die meisten Eltern versuchen primär Risiken zu minimieren und drängen deswegen ihre Kinder dazu, traditionelle Karrierewege zu beschreiten. Von den üblichen Topunis geht es weiter zu einer Handvoll etablierter Firmen, in denen die Kinder schlussendlich ihre Tage damit verbringen standardisierte Checklisten abzuarbeiten und sich an unternehmenspolitischen Spielchen zu beteiligen. 
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Mögliche Alternativen sind ein Leben als Künstler, Wissenschaftler, oder Unternehmer. Leider ist man heutzutage als Wissenschaftler an einer Universität kaum freier als ein Angestellter in einem Großunternehmen. Von den Karriereperspektiven ganz zu schweigen. Da auch Künstler und Wissenschaftler Geld zum Überleben benötigen, bleibt als einzige valide Alternative das Unternehmertum.
 
+## Unternehmertum
+
+Um etwas wirklich innovatives zu erschaffen, muss man die etablierten Systeme und Strukturen komplett hinter sich lassen. Kaum ein Mensch hält es aus täglich als Spinner abgetan zu werden. 
+
+Als Unternehmer dagegen kann man sich völlig frei Problemen und Themen widmen die vom Rest der Gesellschaft ignoriert werden. Man kann selbst entscheiden mit welchen Menschen man sich umgibt und mit welchen Aufgaben man seine Zeit verbringen möchten. Und wenn man es schafft ein solches Problem zu lösen, wird man mit Reichtum belohnt. Ein ziemlich fairer Deal. 
+
+Angestellte werden zwangsläufig unter Wert bezahlt. Der Chef eines Unternehmens wird, zumindest langfristig, sicherlich niemanden in der Firma behalten, der mehr verdient als er erwirtschaftet. Machst du dich aber selbständig, eliminierst du effektiv den Mittelsmann und wirst immer entsprechend deinem Wert für andere Menschen entlohnt. 
+
+![unternehmer]({{ site.url }}/assets/unternehmer.png)
+
+ Aber das vielleicht stärkste Argument warum du Unternehmer werden solltest, ist, dass das Unternehmertum Teil der menschlichen DNA ist. Wie der Friedensnobelpreisträger Muhammad Yunus [zusammenfasste](https://www.forbes.com/100-greatest-business-minds/person/muhammad-yunus):
+
+> „Wir glauben, dass alle Menschen als Unternehmer geboren werden. Sie sind nicht dazu geboren, für jemand anderen zu arbeiten. In der Frühgeschichte geht es darum, Jäger, Sammler und Problemlöser zu sein. Und es ist immer noch ein wesentlicher Bestandteil unserer DNA; wir sind keine Arbeitnehmer, wir sind Unternehmer. Das Arbeitnehmertum ist eine falsche Wendung in unserer Geschichte.“
+
+Ganz Ähnliches beobachtet der Bestseller-Autor Daniel Pink:
+
+> „Der Mensch hat einen angeborenen inneren Antrieb, autonom, selbstbestimmt und mit Anderen verbunden zu sein. Und wenn man diesem Antrieb freien lauf lässt, erreichen die Menschen mehr und leben ein besseres Leben.”
+
+Das Hauptargument gegen das Unternehmertum ist das damit verbundene Risiko. Mit Blick auf die Zukunft scheint es jedoch wahrscheinlich, dass es viel riskanter ist sich darauf zu verlassen, dass es den eigenen Job in 20 Jahren noch geben wird. Das wahre Risiko dem Unternehmer ausgesetzt sind, ist ein ganz anderes: hat man einmal den Geschmack der Freiheit erlebt, gibt es kaum noch einen Weg zurück.
