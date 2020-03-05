@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ja, du solltest Unternehmer sein"
+title:  "Digitale Nomaden"
 author: sal
 categories: [ Unternehmertum, Inspiration]
 image: assets/images/distel.jpg
