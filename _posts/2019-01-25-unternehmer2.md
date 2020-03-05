@@ -33,4 +33,70 @@ Es ist nur noch eine Frage der Zeit bis Städte sich zunehmend darum bemühen me
 
 
 
+## **Wie verdienen Digitale Nomaden ihr Geld?**
+
+Zunächst einmal ist es möglich mit einem ganz gewöhnlichen, festen Job Digitaler Nomade zu sein. Viele Unternehmen bieten nämliche mittlerweile „Remote“-Stellen an. Darunter versteht man Stellen bei denen es egal es Wo die Arbeit erledigt wird, hauptsache sie wird erledigt.[4)](https://wildleben.org/digitale_nomaden#fn__4) Die meisten dieser Stellen sind in der Technologie-Branche. Die Top-Jobs unter Digitalen Nomaden sind:
+
+- Softwareentwickler (Programmierer)
+- Texter
+- Marketingfachkräfte
+- Datenanalysten
+- Sales-Manager (Verkäufer)
+
+Für alle die sich noch mehr Freiheit wünschen, gibt es die Möglichkeit Geld als Freelancer zu verdienen, eigene digitale Produkte zu verkaufen oder ein eigenens Unternehmen zu gründen. Mehr Informationen zu dieser Alternative gibt es [hier](https://wildleben.org/geld).
+
+Die Arten wie Digitale Nomaden in der Praxis ihren Lebensunterhalt bestreiten sind extrem vielfältig. Um nur einige Beispiele zu nennen:
+
+- Theresa Lachner betreibt den Blog [Lvstprinzip](https://www.lvstprinzip.de/).
+- Pieter Levels betreibt eine [kostenpflichtige Community](http://nomadlist.com/), ein [Jobportal](https://remoteok.io/) und verkauft ein [eBook](https://makebook.io/). Insgesamt verdient er so [über 50.000 Euro monatlich](https://levels.io/50k/).
+- [Justin Jackson](https://justinjackson.ca/2016-review/) verkauf einen [Online-Kurs](https://devmarketing.xyz/) und betreibt eine [kostenpflichtige Community](https://megamaker.co/club/).
+- [Jess Warren](http://heyjess.com/) verdient ihren Lebensunterhalt als Grafik-Designerin.
+- [Tim Stone](http://pokercanchangeyourlife.blogspot.com/) kommt seit Jahren durch das Spielen von Online Poker gut über die Runden.
+
+Eine weitere Besonderheit des digitalen Nomaden Lebens ist nur nich Was gearbeitet wird, sondern auch Wo. Während Digitale Nomaden nicht in einem klassischen Büro arbeiten, verbringen die wenigste ihre Zeit wirklich in einer Hängematte liegend. Stattdessen bevorzugen die meisten die produktive Atmosphäre von Coffee-Shops oder Coworking Spaces.
+
+
+
+## **Können auch Eltern Digitale Nomaden sein?**
+
+Obwohl die Herausfordern für Eltern natürlich deutlich größer als für alle anderen, ist die Antwort ein klarer Ja! Dank der Möglichkeiten des Internets können (und sollten) Kinder nicht mehr an die Grenzen lokaler Schulen gebunden sein. Die Qualität des Unterrichts an einer regulären Schule ist extrem Abhängig von der Qualität der vorhandenen Lehrer. Im Gegensatz dazu, kann man heutzutage prinzipiell eben auch kinderleicht von den besten Lehrer weltweit und ortsunabhängig lernen. Beispielsweise bieten auf Plattformen wie [edX](http://edx.org/)die besten Universitäten und Schulen der Welt ihre Kurse Online zur Verfügung. Darüberhinaus können Digitale Nomaden lokale Treffen für ihr Kinder organisieren, wo diese gemeinsam lernen und das Gelernte diskutieren.
+
+Außerdem bekommen durch das Reisen Kinder nicht nur deutlich schneller ein klarer Verständnis vom Funktionieren der Welt, sondern entwickeln auch bessere soziale Kompetenzen, da sie lernen in verschiedenen sozialen Kreisen und Kulturen Anschluss zu finden.
+
+
+
+## **Digitales Nomadentum auf Zeit**
+
+Bevor man seinen Job kündigt und sich Hals über Kopf in das Nomadenleben stürzt, sollte man das Ganze erst einmal [auf Zeit ausprobieren](https://wildleben.org/reisen). Das Leben als Digitaler Nomade ist nämlich nicht für jeden die Optimallösung. Die problematischsten Aspekte sind die Herausforderung produktiv zu sein, während man ständig unterwegs ist und außerdem einen festen Freundeskreis aufrecht zu erhalten. Nicht wenige Nomaden fühlen sich nach einiger Zeit ausgelaugt und einsam.
+
+Im Optimalfall testet man also das Ganze erst einmal für ein bis drei Monate in einer „Einsteigerstadt“. In Städten wie Chang Mai oder Bangkok gibt es tausende Digitale Nomaden, sodass man problemlos auf Gleichgesinnte trifft und Einsteiger-Tipps bekommt. Außerdem ist in diesen Städten bereits eine gewissee Infrastruktur (Apartments, Coworking-Spaces) speziell für Nomaden vorhanden.
+
+
+
+## **Die besten Webseiten für Digitale Nomaden**
+
+- [Nomadlist.com](https://nomadlist.com/) - Portal, dass den Vergleich von Städten weltweit nach für digitale Nomaden relevanten Kriterien ermöglicht. Außerdem eine riesige (kostenpflichtige) Online Community mit regelmäßigen Meetups die es ermöglichen schnell in neuen Städten andere Nomaden zu treffen.
+- [WebWorkTravel](https://www.webworktravel.com/) - International Community digitaler Nomaden mit regelmäßigen Treffen.
+
+
+
+## **Die besten Filme über Digitale Nomaden**
+
+- [One Way Ticket](http://digitalnomaddocumentary.com/) - brillante Dokumentation in über die globale „Digital Nomads“ Bewegung in der viele berühmte Vordenker zu Sprache kommen.
+
+
+
+## **Die besten Podcasts für Digitale Nomaden**
+
+- [Der Digitale Nomaden Podcast](https://www.digitalenomadenpodcast.de/) - spannnende Interviews mit deutschen Digitalen Nomaden.
+- [The Tropical MBA](http://www.tropicalmba.com/) - seit vielen Jahre Vorreiter was das ortsunabhängige Unternehmertum angeht.
+
+
+
+## **Bekannte Digitale Nomaden**
+
+Manche Digitale Nomaden haben mittlerweile einen enormen Bekanntheitsstatus erreicht. In einem gewissen Sinne sind sie die Rockstars unserer Zeit. Wollte vor 40 Jahre noch jeder Rockstart werden, sind es eben heute die Digitalen Nomaden denen nachgeeifert wird.
+
+- [Pieter Levels](https://twitter.com/levelsio) - Quasi der Klassensprecher der globalden Digitalen-Nomaden Community. Gründer der größten Nomaden-Community [Nomadlist](https://nomadlist.com/) und selbst seit vielen Jahren Nomade.
+- [John O'Nolan](https://twitter.com/JohnONolan) - Erfinder des Content-Management-Systems „[Ghost](https://ghost.org/)“.
 
