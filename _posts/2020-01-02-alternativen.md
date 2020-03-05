@@ -2,9 +2,9 @@
 layout: post
 title:  "Alternativen zum festen Job"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Unternehmertum, Inspiration]
 image: assets/images/distel.jpg
----
+--- 
 # Alternativen Hamsterrad
 
 # **Geld verdienen ohne festen Job - Alles über Alternativen zum Hamsterrad**
