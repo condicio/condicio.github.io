@@ -5,9 +5,6 @@ author: sal
 categories: [ Unternehmertum, Inspiration]
 image: assets/images/distel.jpg
 --- 
-# Alternativen Hamsterrad
-
-# **Geld verdienen ohne festen Job - Alles über Alternativen zum Hamsterrad**
 
 Die Hürde, die die meisten von einem alternativeren Lebensentwurf abhält, ist das liebe Geld. Ein individuell gestaltetest Leben, abseits der üblichen ausgetretenen Pfade, lässt sich so gut wie nie mit einem traditionellem Job vereinbaren. Fast niemand hat bereits genug Geld gespart um davon bis an das Lebensende zu zehren und ewig warten um die eigenen Träume in der Rente zu erfüllen, ist auch keine sonderlich attraktive Option.
 
