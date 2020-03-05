@@ -5,7 +5,7 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/distel.jpg
 ---
-Die meisten klugen Köpfe heutzutage verbringen leider den größten Teil ihrer Zeit mit trivialen Aufgaben, in Unternehmen in denen sie unsichtbar bleiben. Viele von ihnen wissen, dass sie ihre Zeit mit eigentlich sinnlosen Aufgaben verbringen. Oftmals ist es für die Karriere förderlicher wenn man sich darauf fokussiert produktiv zu erscheinen, anstatt wirklich produktiv zu sein. Wertgeschätzt wird was sichtbar ist, nicht was sinnvoll ist. 
+Die meisten klugen Köpfe heutzutage verbringen leider den größten Teil ihrer Zeit mit trivialen Aufgaben, in Unternehmen in denen sie unsichtbar bleiben. Viele von ihnen [wissen](https://hbr.org/2019/07/why-you-should-stop-trying-to-be-happy-at-work), dass sie ihre Zeit mit eigentlich sinnlosen Aufgaben verbringen. Oftmals ist es für die Karriere förderlicher wenn man sich darauf fokussiert produktiv zu erscheinen, anstatt wirklich produktiv zu sein. Wertgeschätzt wird was sichtbar ist, nicht was sinnvoll ist. 
 
 Kreativität und Arbeit an wirklich neuen Ideen sind oftmals hinderlich für die Karriere. Neuen Ideen sind extrem fragil und oftmals riskant. Einer näheren Prüfung halten sie im Frühstadium selten stand. Aus diesem Grund werden viele guten Ideen oftmals todgeredet bevor sie eine echte Chance haben sich vollständig zu entfalten. 
 
