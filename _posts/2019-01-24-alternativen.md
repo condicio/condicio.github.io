@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alternativen zum festen Job"
+title:  "Alternativen zum festen Job3"
 author: sal
 categories: [ Selbstverwirklichung ]
 image: assets/images/distel.jpg
