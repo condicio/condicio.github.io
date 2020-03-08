@@ -61,7 +61,7 @@ paginate: 6
 
 pagination: 
   enabled: true
-  offset: 3
+  offset: 1
  
 # to add books post type
 collections:
