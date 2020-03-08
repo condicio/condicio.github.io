@@ -57,7 +57,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 7
+paginate: 6
 
 # to add books post type
 collections:
