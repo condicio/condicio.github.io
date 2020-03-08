@@ -2,7 +2,7 @@
 layout: post
 title:  "Digitale Nomaden"
 author: sal
-categories: [ Test]
+categories: [ Selbstverwirklichung ]
 image: assets/images/distel.jpg
 --- 
 
