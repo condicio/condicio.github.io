@@ -54,7 +54,7 @@ description: ""
                 {% if second_book.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_book.url}}">
-                 <img class="w-100" src="{% if second_book.image contains "://" %}{{ second_book.image }}{% else %}{{ second_bookimage | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 <img class="w-100" src="{% if second_book.image contains "://" %}{{ second_book.image }}{% else %}{{ second_book.image | absolute_url }}{% endif %}" alt="{{ second_book.title }}">
                 </a>
                 </div>
                 {% endif %}                
