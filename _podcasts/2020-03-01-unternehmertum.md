@@ -2,6 +2,7 @@
 layout: post
 title:  "Unternehmertum Podcast"
 categories: [ Test3 ]
+author: Jakob Berg
 image: assets/images/3.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
