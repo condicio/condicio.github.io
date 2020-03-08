@@ -49,28 +49,28 @@ description: ""
     <div class="col-md-6">
         
         <!-- second latest post -->
-        {%- assign second_post = site.books[1] -%}        
+        {%- assign second_book = site.books[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
-                {% if second_post.image %}
+                {% if second_book.image %}
                 <div class="col-md-4">
-                <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                <a href="{{site.baseurl}}{{second_book.url}}">
+                 <img class="w-100" src="{% if second_book.image contains "://" %}{{ second_book.image }}{% else %}{{ second_bookimage | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                    <a class="text-dark" href="{{site.baseurl}}{{second_book.url}}">{{ second_book.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
-                        {% for category in second_post.categories %}
+                        {% for category in second_book.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                        {{ second_book.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
             </div>
