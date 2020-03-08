@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ja, du solltest Unternehmer sein"
-author: sal
+author: "Jakob Berg"
 categories: [ Selbstverwirklichung ]
 image: assets/images/distel.jpg
 --- 
