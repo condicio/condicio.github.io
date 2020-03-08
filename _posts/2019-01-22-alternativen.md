@@ -2,7 +2,7 @@
 layout: post
 title:  "Alternativen zum festen Job"
 author: sal
-categories: [ Unternehmertum, Inspiration]
+categories: [ Selbstverwirklichung ]
 image: assets/images/distel.jpg
 --- 
 
