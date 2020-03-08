@@ -2,7 +2,7 @@
 layout: post
 title:  "Ja, du solltest Unternehmer sein"
 author: sal
-categories: [ TEST2 ]
+categories: [ Selbstverwirklichung ]
 image: assets/images/distel.jpg
 --- 
 
