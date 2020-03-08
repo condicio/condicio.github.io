@@ -58,10 +58,6 @@ highlighter: rouge
 
 # Paginate
 paginate: 6
-
-pagination: 
-  enabled: true
-  offset: 1
  
 # to add books post type
 collections:
