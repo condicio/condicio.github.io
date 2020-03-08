@@ -172,7 +172,7 @@ description: ""
         
 
         {% for post in site.posts %} 
-   
+            <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
             {% include main-loop-card.html %}
         
         {% endfor %}
