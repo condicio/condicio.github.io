@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  Über Glücklich oder Normal
 permalink: "/ueber.html"
 slug: ueber
