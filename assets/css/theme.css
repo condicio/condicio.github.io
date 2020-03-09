@@ -381,6 +381,13 @@ a.text-dark:hover {
 .bg-lightblue {
 	fill:#e8f3ec !important;
 }
+
+.bg-lightyellow {
+	fill:#fbb50014 !important;
+}
+
+
+
 .card .date {
 	position:absolute;
 	top:20px;
