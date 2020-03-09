@@ -1,8 +1,9 @@
 ---
+layout: page-sidebar
 title:  Über Glücklich oder Normal
 permalink: "/ueber.html"
-slug: ueber
 image: assets/images/327456.jpg
+slug: ueber
 ---
 
 Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
