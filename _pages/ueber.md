@@ -1,5 +1,5 @@
 ---
-layout: page-sidebar
+layout: post
 title:  Über Glücklich oder Normal
 permalink: "/ueber.html"
 image: assets/images/gluecklich-oder-normal2.png
