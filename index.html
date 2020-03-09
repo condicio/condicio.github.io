@@ -32,11 +32,7 @@ description: ""
     </p>
     <div>
         <small class="d-block text-muted">
-            In <span class="catlist">
-                {% for category in latest_book.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                {% endfor %}
-                </span>                   
+            {{latest_book.author}}                 
         </small>
         <small class="text-muted">
             {{ latest_book.date | date: '%b %d, %Y' }}
@@ -63,11 +59,7 @@ description: ""
                     <a class="text-dark" href="{{site.baseurl}}{{second_book.url}}">{{ second_book.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
-                        {% for category in second_book.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>                   
+                        {{second_book.author}}                   
                     </small>
                     <small class="text-muted">
                         {{ second_book.date | date: '%b %d, %Y' }}
@@ -90,11 +82,7 @@ description: ""
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
-                        {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>                   
+                        {{third_post.author}}                 
                     </small>
                     <small class="text-muted">
                         {{ third_post.date | date: '%b %d, %Y' }}
@@ -117,11 +105,7 @@ description: ""
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
-                        {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>                   
+                        {{fourth_post.author}}                
                     </small>
                     <small class="text-muted">
                         {{ fourth_post.date | date: '%b %d, %Y' }}
