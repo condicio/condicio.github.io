@@ -1,6 +1,7 @@
 ---
 title:  Über Glücklich oder Normal
 permalink: "/ueber.html"
+slug: ueber
 image: assets/images/327456.jpg
 ---
 
