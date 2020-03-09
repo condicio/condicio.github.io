@@ -2,7 +2,7 @@
 layout: post
 title:  Über Glücklich oder Normal
 author: "Jakob Berg"
-slug: about
+slug: ueber
 image: assets/images/327456.jpg
 ---
 
