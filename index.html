@@ -173,6 +173,7 @@ description: ""
         
 
         {% for post in site.posts %}   
+        {{ post.title }}
         {% include main-loop-card.html %}
         {% endfor %}
         
