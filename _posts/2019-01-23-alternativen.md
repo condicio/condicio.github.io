@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alternativen zum festen Job"
-author: sal
+author: "Jakob Berg"
 categories: [ Selbstverwirklichung ]
 image: assets/images/distel.jpg
 --- 
