@@ -58,6 +58,7 @@ highlighter: rouge
 
 # Paginate
 paginate: 3
+
  
 # to add books post type
 collections:
