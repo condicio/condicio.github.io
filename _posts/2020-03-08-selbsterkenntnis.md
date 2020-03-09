@@ -3,7 +3,7 @@ layout: post
 title:  "Selbsterkenntnis- der essentielle erste Schritt für ein glücklicheres Leben"
 author: "Jakob Berg"
 categories: [ Selbsterkenntnis ]
-image: assets/images/selbsterkenntnis.png
+image: assets/images/selbsterkenntnis3.png
 --- 
 
 
