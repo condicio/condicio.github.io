@@ -2,6 +2,7 @@
 layout: post
 title:  Scheiss auf den Zoo
 categories: [ Buch ]
+author: "Sam McRoberts"
 image: assets/images/zoo-mockup.png
 ---
 
