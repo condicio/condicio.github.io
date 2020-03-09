@@ -2,6 +2,7 @@
 layout: post
 title:  "Geheimnisse über Menschen: Eine kurze und gefährliche Einführung zum Werk René Girards"
 categories: [ Buch ]
+author: "Alex Danco"
 image: assets/images/Bodybuilding-softcover-mockup.png
 date: 2020-03-23T10:20:00Z
 ---
