@@ -171,7 +171,7 @@ description: ""
         <h4 class="font-weight-bold spanborder"><span>Essays</span></h4>
         
 
-                {% for post in paginator.posts %}
+        {% for post in paginator.posts %}
         
             {% include main-loop-card.html %}
         
@@ -205,13 +205,6 @@ description: ""
             </ul>
             {% endif %}      
         </div>
-        
-    </div>
-     
-     
-        {% endfor %}
-        
-
         
     </div>
     
