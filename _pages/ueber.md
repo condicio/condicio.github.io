@@ -2,7 +2,7 @@
 layout: page-sidebar
 title:  Über Glücklich oder Normal
 permalink: "/ueber.html"
-image: assets/images/327456.jpg
+image: assets/images/gluecklich-oder-normal.png
 description: This is my awesome writeup of this fantastic thing
 slug: ueber
 ---
