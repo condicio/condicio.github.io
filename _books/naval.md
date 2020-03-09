@@ -2,6 +2,7 @@
 layout: post
 title:  "Wie man auch ohne Glück reich wird"
 categories: [ Buch ]
+author: "Naval Ravikant"
 image: assets/images/naval_mockup_2.png
 ---
 
