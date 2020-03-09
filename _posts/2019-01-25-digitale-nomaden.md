@@ -3,7 +3,7 @@ layout: post
 title:  "Digitale Nomaden"
 author: "Jakob Berg"
 categories: [ Selbstverwirklichung ]
-image: assets/images/distel.jpg
+image: assets/images/digitale_nomaden.png
 --- 
 
 
