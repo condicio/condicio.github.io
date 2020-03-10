@@ -6,7 +6,7 @@ author: "Göran Backlund"
 image: assets/images/widerlegung_mockup_8.png
 ---
 
->Es gibt nichts, was Sie tun können, um sich jemals etwas anderes als Ihr eigenes Bewusstsein zu erleben.
+>Es gibt nichts, was du tun kannst, um jemals etwas anderes als dein eigenes Bewusstsein zu erleben.
 
 
 Dieses philosophische Werk dekonstuiert Schritt für Schritt die Vorstellung einer externen Welt. Es wird jegliches falsches Denken, das diese Idee umgibt und auf dem alles andere aufbaut, effektiv unter die Lupe genommen und auseinander genommen. Der Sinn des Ganzen? Sie von allen Vorstellungen eines "Selbst" zu befreien und Ihnen zu erlauben, die rohe, nicht-duale Wahrheit des Seins direkt zu entdecken.
