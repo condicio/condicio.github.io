@@ -23,7 +23,7 @@ Aber es ist ein Buch, das sich von allen anderen Büchern über das nicht-dualen
 - **Seiten: 62**
 - **Preis: 9.99€**
 
-## Über den Göran Backlund
+## Über den Autor
 
 ![Göran Backlund](/assets/images/goran_backlund.png){: style="float: right;height:100px;margin-left:20px;"}
 
