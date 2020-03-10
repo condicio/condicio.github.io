@@ -3,7 +3,7 @@ layout: post
 title:  "Die Widerlegung der Externen Welt"
 categories: [ Buch ]
 author: "Göran Backlund"
-image: assets/images/widerlegung_mockup_8.png
+image: assets/images/backlundmockup20.png
 ---
 
 >Es gibt nichts, was du tun kannst, um jemals etwas anderes als dein eigenes Bewusstsein zu erleben.
