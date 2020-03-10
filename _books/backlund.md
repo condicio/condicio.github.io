@@ -6,6 +6,9 @@ author: "Göran Backlund"
 image: assets/images/widerlegung_mockup_8.png
 ---
 
+>Es gibt nichts, was Sie tun können, um sich jemals etwas anderes als Ihr eigenes Bewusstsein zu erleben.
+
+
 Dieses philosophische Werk dekonstuiert Schritt für Schritt die Vorstellung einer externen Welt. Es wird jegliches falsches Denken, das diese Idee umgibt und auf dem alles andere aufbaut, effektiv unter die Lupe genommen und auseinander genommen. Der Sinn des Ganzen? Sie von allen Vorstellungen eines "Selbst" zu befreien und Ihnen zu erlauben, die rohe, nicht-duale Wahrheit des Seins direkt zu entdecken.
 
 Dies ist nicht die erste Arbeit, die sich mit diesem Thema befasst. Aber andere haben es bei "wir können nicht wirklich wissen, ob es etwas gibt, das über unsere Erfahrung hinausgeht" belassen, während in diesem Buch ein völlig anderer Weg eingeschlagen wird. Göran Backlund argumentiert, dass wir es wissen können - und in diesem Buch zeigt er wie und warum die Idee eines objektiven, physischen Universums bestehend aus Zeit und Raum, das jenseits unserer Wahrnehmung liegt, nichts als eine Erfindung unserer Vorstellungskraft ist.
@@ -21,4 +24,3 @@ Aber es ist ein Buch, das sich von allen anderen Büchern über das nicht-dualen
 
 Göran Backlund ist ein schwedischer Philosoph und Autor der sich hauptsächlich mit den Themen Nicht-Dualität und Freiheit auseinandersetzt.
 
->"Es gibt nichts, was Sie tun können, um sich jemals etwas anderes als Ihr eigenes Bewusstsein zu erleben".
