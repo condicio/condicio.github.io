@@ -6,7 +6,14 @@ author: "Göran Backlund"
 image: assets/images/backlundmockup20.png
 ---
 
+**Erscheinungsdatum: 1. April 2020**
+**Seiten: 62**
+**Preis: 9.99€**
 
+
+
+
+## Kurzbeschreibung
 
 Dieses philosophische Werk dekonstuiert Schritt für Schritt die Vorstellung einer externen Welt. Es wird jegliches falsches Denken, das diese Idee umgibt und auf dem alles andere aufbaut, effektiv unter die Lupe genommen und auseinander genommen. Der Sinn des Ganzen? Sie von allen Vorstellungen eines "Selbst" zu befreien und Ihnen zu erlauben, die rohe, nicht-duale Wahrheit des Seins direkt zu entdecken.
 
