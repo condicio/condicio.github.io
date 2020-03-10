@@ -1,0 +1,192 @@
+---
+layout: post
+title:  "Was ihr euch wünschen würdet, ihr hättet es gewusst"
+author: "Paul Graham"
+categories: [ Selbstverwirklichung ]
+image: assets/images/optionen.png
+--- 
+
+Als ich erzählte, dass ich an einer Highschool eine Rede halte fragten sie mich sofort: Was wirst du den Schülern sagen? Also hab ich den Spieß umgedreht und sie gefragt: Was hätten du dir gewünscht, dass es dir jemand in der Highschool gesagt hätte? Die Antworten die ich bekam, waren bemerkenswert ähnlich. Also werde ich im Folgenden erklären, was wir uns alle wünschen, dass es uns jemand gesagt hätte.
+
+Ich fange damit an, dass ich Ihnen etwas erzähle, was du in der High School nicht wissen musst: was du mit deinem Leben anfangen willst. Die Leute fragen dich das immer wieder, also denkst du, du solltest eine Antwort haben. Aber Erwachsene fragen das hauptsächlich als Gesprächseinstieg. Sie wollen wissen, was für ein Mensch du bist, und diese Frage soll dich nur zum Reden bringen. Sie fragen es so, wie man einen Einsiedlerkrebs in einem Gezeitenbecken anstupst, um zu sehen, was er tut.
+
+Wenn ich wieder in der Highschool wäre und jemand nach meinen Plänen fragen würde, würde ich sagen, dass es meine erste Priorität ist, zu erfahren, welche Möglichkeiten es gibt. Du brauchst dich nicht zu beeilen, um dein Lebensweg zu wählen. Du musst nur entdecken, was dir gefällt. Man muss an Dingen arbeiten, die man mag, wenn man gut in dem sein will, was man tut.
+
+Es mag den Anschein erwecken, dass nichts einfacher wäre, als zu entscheiden, was einem gefällt, aber es stellt sich als schwierig heraus, auch weil es schwierig ist, sich ein genaues Bild von den meisten Jobs zu machen. Arzt zu sein entspricht nicht dem Bild, das man sich im TV dargestellt wird. Zum Glück kann man auch echte Ärzte beobachten, indem man freiwillig in einem Krankenhaus arbeitet. [1]
+
+Aber es gibt andere Berufe, über die man sich nicht informieren kann, weil noch niemand sie ausübt. Die meisten Aufgaben, die ich in den letzten zehn Jahren erledigt habe, gab es noch nicht, als ich in der High School war. Die Welt verändert sich schnell, und die Geschwindigkeit, mit der sie sich verändert, wird selbst immer schneller. In einer solchen Welt ist es keine gute Idee, feste Pläne zu haben.
+
+Und trotzdem wird jedes Jahr im Mai von Rednern im ganzen Land die Standard-Promotions-Rede gehalten, deren Thema lautet: Gib deine Träume nicht auf. Ich weiß, was sie meinen, aber das ist eine schlechte Art, es auszudrücken, denn es impliziert, dass man an einen Plan gebunden sein sollte, den man schon früh im Leben gemacht hat. In der Computerwelt gibt es dafür einen Namen: vorschnelle Optimierung. Und er ist gleichbedeutend mit Desaster. Besser wäre wenn die Redner einfach sagen würden: Gib nicht auf.
+
+
+Was sie wirklich sagen wollen, ist: lass dich nicht demoralisieren. Glaub nicht, dass du nicht das tun kannst, was andere Leute können. Und ich stimme zu, dass man sein Potenzial nicht unterschätzen sollte. Menschen, die großartige Dinge getan haben, neigen dazu, wie eine ganz eigene Rasse zu wirken. Und die meisten Biographien tragen entscheidend zu dieser Illusion bei, zum Teil aufgrund der verehrenden Haltung, in die Biographen unweigerlich versinken, und zum Teil, weil sie, wenn sie wissen, wie die Geschichte endet, nicht anders können, als die Handlung zu straffen, bis es so aussieht, als sei das Leben des Probanden eine Schicksalssache, die bloße Entfaltung eines angeborenen Genies. Ich vermute sogar, dass, wenn der sechzehnjährigen Shakespeare oder Einstein deine Schule besuchen würde, sie zwar auffallen würden, aber dennoch nicht völlig verschieden von deinen anderen Freunden wären.
+
+Das ist ein unbequemer Gedanke. Wenn sie genau wie wir waren, dann mussten sie sehr hart arbeiten, um das zu tun, was sie getan haben. Und das ist ein Grund, warum wir gerne an Genialität glauben. Es gibt uns eine Entschuldigung für unsere Faulheit. Wenn diese Jungs das, was sie getan haben, nur aufgrund einer magischen Shakespeare- oder Einsteinhaftigkeit tun konnten, dann ist es nicht unsere Schuld, wenn wir etwas nicht genauso gut machen können.
+
+Ich sage nicht, dass es so etwas wie ein Genie nicht gibt. Aber wenn man versucht, zwischen zwei Theorien zu wählen, und die eine einen Vorwand für Faulheit liefert, hat die andere wahrscheinlich Recht.
+
+Bisher haben wir die Standardabschlussrede von "Gib deine Träume nicht auf" auf "Was jemand anderes tun kann, kannst du auch tun" reduziert. Aber sie muss noch weiter gekürzt werden. Es gibt eine gewisse Variabilität in den natürlichen Fähigkeiten von uns Menschen. Die meisten Menschen überschätzen ihre Bedeutung, aber es gibt sie dennoch. Wenn ich mit einem 1,80 m großen Mann sprechen würde, der in der NBA spielen will, käme ich mir ziemlich blöd vor, wenn ich sagen würde: "Du kannst alles tun, wenn du es wirklich versuchst. [2]
+
+Wir müssen die Standard-Abschlussrede weiter reduzieren auf, "was jemand anderes mit Ihren Fähigkeiten tun kann, können Sie auch tun; und unterschätzen Sie nicht Ihre Fähigkeiten". Aber wie so oft, je näher man der Wahrheit kommt, desto verschachtelter werden die Sätze. Wir haben einen netten, hübschen (aber falschen) Slogan genommen und ihn wie eine Schlammpfütze aufgewühlt. Das Ergebnis ist nicht mehr wirklich für eine gute Rede geeignet. Aber schlimmer noch, sie sagt dir nicht mehr, was du tun sollst. Jemand mit deinen Fähigkeiten? Was sind deine Fähigkeiten?
+
+Aufwind
+
+Ich denke, die Lösung liegt darin, in die entgegengesetzte Richtung zu arbeiten. Anstatt von einem Ziel aus rückwärts zu arbeiten, sollte man von vielversprechenden Situationen aus vorwärts arbeiten. Das ist das, was die meisten erfolgreichen Menschen ohnehin tun.
+
+Beim Ansatz der üblichen Abschlussrede entscheidet man, wo man in zwanzig Jahren sein will, und fragt dann: Was sollte ich jetzt tun, um dorthin zu gelangen? Ich schlage stattdessen vor, dass du dich für nichts konkretes in der Zukunft verpflichten solltest, sondern dass du dir einfach die Optionen ansiehst, die dir jetzt zur Verfügung stehen, und dann diejenigen auswählst, die dir später die aussichtsreichsten Möglichkeiten bieten.
+
+Es ist nicht so wichtig, woran du arbeitest, solange du nicht deine Zeit verschwendest. Arbeite an Dingen, die dich interessieren und erweitere deine Optionen, und mache dir später Gedanken darüber, welche du wahrnehmen willst.
+
+Angenommen, du bist ein Studienanfänger, der sich entscheiden will, ob er Mathematik oder Wirtschaft studieren will. Nun ja, mit Mathematik hast du mehr Möglichkeiten: Du kannst in fast jedes Fachgebiet der Mathematik einsteigen. Wenn du Mathe als Hauptfach studierst, wird es leicht sein, später ein weiterführendes Wirtschaftsstudium dranzuhängen, aber wenn du Wirtschaftswissenschaften studierst, wird es schwer sein, ein weiterführendes Mathematik-Studium anschließend anzuhängen.
+
+Das Fliegen eines Segelflugzeugs ist hier eine gute Metapher. Da ein Segelflugzeug keinen Motor hat, kann man nicht gegen den Wind fliegen, ohne viel Höhe zu verlieren. Wenn man sich windabwärts weit weg von allen Landeplätzen treiben lässt, schränkt man die eigenen Möglichkeiten unangenehm ein. Als Regel gilt, dass man im Aufwind bleiben will. Deshalb schlage ich als Alternative zu "Geben Sie Ihre Träume nicht auf" den Slogan "Bleib im Aufwind" vor.
+
+Wie macht genau man das? Selbst wenn Mathe sich im Gegensatz zu Wirtschaft im Aufwind befindet, wie soll man das als Schüler wissen?
+
+Nun, das tut man nicht, und genau deswegen muss man es herausfinden. Suche nach klugen Leuten und schwierigen Problemen. Kluge Menschen neigen dazu Klumpen zu bilden, und wenn Sie einen solchen Klumpen finden können, lohnt es sich wahrscheinlich, sich ihm anzuschließen. Aber es ist nicht einfach, diese zu finden, denn es wird viel leider viel geschwindelt.
+
+Für einen neu angekommenen Studienanfänger sehen alle Universitätsfakultäten sehr ähnlich aus. Die Professoren scheinen alle ungemein intellektuell zu sein und veröffentlichen Arbeiten, die für Außenstehende unverständlich sind. Aber während die Arbeiten in einigen Bereichen unverständlich sind, weil sie voller schwieriger Ideen stecken, sind sie in anderen Bereichen absichtlich so unverständlich geschrieben, dass es so aussieht, als würden sie etwas Wichtiges sagen. Dies mag ein skandalöser Behauptung sein, aber er wurde in der berühmten Social-Text-Affäre experimentell verifiziert. Ein Physiker vermutete, dass die von Literaturtheoretikern veröffentlichten Arbeiten oft nur intellektuell klingenden Unsinn enthalten, und schrieb absichtlich eine Arbeit voller intellektuell klingendem Unsinn und reichte sie bei einer Zeitschrift für Literaturtheorie ein, die sie veröffentlichte.
+
+Der beste Schutz besteht immer darin, an schwierigen Problemen zu arbeiten. Romane zu schreiben ist schwer. Romane zu lesen ist es nicht. Schwierig bedeutet Sorgen: Wenn Sie nicht befürchten, dass etwas, was Sie machen, schief geht oder dass Sie etwas, das Sie studieren, nicht verstehen können, dann ist es nicht schwer genug. Es muss eine gewisse Spannung herrschen.
+
+Nun wirst du eventuell denken, dass dies eine recht düstere Sicht der Welt ist. Was ich dir sagen will, ist, dass du dir Sorgen machen solltest? Ja, aber es ist nicht so schlimm, wie es sich anhört. Es ist berauschend, Sorgen zu überwinden. Man sieht keine viel glücklicheren Gesichter als Leute, die Goldmedaillen gewinnen. Und wissen Sie, warum sie so glücklich sind? Erleichterung.
+
+Ich sage nicht, dass dies der einzige Weg ist, um glücklich zu sein. Nur, dass einige Arten von Sorgen nicht so schlimm sind, wie sie zunächst erscheinen.
+
+Ambitionen
+
+In der Praxis reduziert sich "im Aufwind bleiben" zu "arbeite an schwierigen Problemen". Und du kannst heute damit anfangen. Ich wünschte, ich hätte das in der Highschool begriffen.
+
+Die meisten Menschen sind gerne gut in dem, was sie tun. In der sogenannten realen Welt ist dieses Bedürfnis eine mächtige Kraft. Aber Highschool-Schüler profitieren nur selten davon, weil man sie mit Fake-Dingen beschäftigt. Als ich in der High School war, glaubte ich, dass es meine Aufgabe sei, ein Highschool-Schüler zu sein. Und so ließ ich mein Bedürfnis, gut in dem zu sein, was ich tue, dadurch befriedigt werden, dass ich in der Schule gut war.
+
+Hätten Sie mich in der Highschool gefragt, was der Unterschied zwischen Highschool-Kindern und Erwachsenen sei, hätte ich gesagt, dass Erwachsene ihren Lebensunterhalt verdienen müssen. Das ist falsch. Es geht darum, dass Erwachsene Verantwortung für sich selbst übernehmen. Das Verdienen des Lebensunterhalts ist nur ein kleiner Teil davon. Viel wichtiger ist es, intellektuelle Verantwortung für sich selbst zu übernehmen.
+
+Wenn ich wieder die Highschool durchlaufen müsste, würde ich sie wie einen Tagesjob behandeln. Ich meine damit nicht, dass ich meine schulischen Pflichten schleifen lassen würde. An einem Tagesjob zu arbeiten, bedeutet nicht, dass man es schlecht macht. Es bedeutet, sich nicht durch ihn zu definieren. Ich meine, ich würde mich nicht als Highschool-Schüler betrachten, so wie ein Musiker mit einem Tagesjob als Kellner sich nicht als Kellner sieht. [3] Und in der Zeit in der ich nicht mit meinem Tagesjob beschäftigt wäre, würde ich anfangen, mich um echte Arbeit zu bemühen.
+
+Wenn ich die Leute frage, was sie an der Highschool am meisten bedauern, sagen sie fast alle das Gleiche: dass sie so viel Zeit verschwendet haben. Wenn Sie sich fragen, was Sie jetzt tun, was Sie später am meisten bereuen werden, dann ist es wahrscheinlich genau das gleiche. [4]
+
+Einige Leute sagen, dass dies unvermeidlich ist - dass Highschool-Schüler noch nicht in der Lage sind, etwas richtiges zu erreichen. Aber ich glaube nicht, dass das stimmt. Und der Beweis ist, dass man sich langweilt. Sie haben sich wahrscheinlich nicht gelangweilt, als Sie acht Jahre alt waren. Wenn man acht Jahre alt ist, heißt es "spielen" statt "rumhängen", aber es ist dasselbe. Und als ich acht Jahre alt war, habe ich mich selten gelangweilt. Gib mir einen Garten und ein paar andere Kinder und ich konnte den ganzen Tag spielen.
+
+Der Grund dafür, dass dies in der Mittel- und Oberschule nicht mehr der Fall ist, ist, wie ich jetzt weiß, dass ich für etwas anderes bereit war. Die Kindheit wurde langsam langweilig.
+
+Ich sage nicht, dass Sie nicht mit Ihren Freunden abhängen sollten - dass Sie alle zu humorlosen kleinen Robotern werden sollten, die nichts anderes tun als arbeiten. Mit Freunden rumzuhängen ist wie Schokoladenkuchen. Man genießt ihn mehr, wenn man ihn gelegentlich isst, als wenn man zu jeder Mahlzeit nichts anderes als Schokoladenkuchen isst. Egal, wie sehr Sie Schokoladenkuchen mögen, Ihnen wird nach der dritten Schokoladenkuchen-Mahlzeit in Folge ziemlich übel sein. Und genau das ist das Unwohlsein, das man in der Highschool empfindet: geistige Übelkeit. [5]
+
+Sie denken vielleicht, dass wir mehr tun müssen, als nur gute Noten zu bekommen. Wir müssen außerschulische Aktivitäten haben. Aber Sie wissen genau, wie unsinnig die meisten davon sind. Spenden für eine Wohltätigkeitsorganisation zu sammeln ist eine bewundernswerte Sache, aber es ist nicht schwer. Es bedeutet nicht, dass man wirklich etwas erreicht. Was ich mit "wirklich etwas erreichen" meine, ist, dass man lernt, gut zu schreiben, oder wie man Computer programmiert, oder wie das Leben in vorindustriellen Gesellschaften wirklich war, oder wie man das menschliche Gesicht lebensecht zeichnet. Solche Dinge lassen sich selten in eine Zeile auf einer College-Bewerbung übersetzen.
+Korruption
+
+Es ist gefährlich, sein Leben so zu gestalten, dass man auf jeden Fall bei einer Universität aufgenommen wird, denn die Leute, die man beeindrucken muss, um auf eine Universität zu kommen, sind kein sehr anspruchsvolles Publikum. An den meisten Colleges entscheiden nicht die Professoren, ob man aufgenommen wird, sondern die Zulassungsbeamten, und die sind bei weitem nicht so clever. Sie sind die Unteroffiziere der intellektuellen Welt. Sie können nicht beurteilen, wie klug du bist. Die bloße Existenz von Prep-Schools ist der Beweis dafür.
+
+Wenige Eltern würden so viel Geld für eine Prep-School bezahlen, wenn es die Aufnahmeaussichten ihrer Kinder nicht verbessern würde. Prep-Schools sagen bereitwillig, dass dies eines ihrer Ziele ist. Aber wenn man darüber nachdenkt, bedeutet das, dass sie das Aufnahmeverfahren hacken können: dass sie das gleiche Kind nehmen und es als attraktiveren Kandidaten erscheinen lassen können, als wenn es auf die örtliche öffentliche Schule gehen würde. [6]
+
+Im Moment haben die meisten von euch das Gefühl, dass es eure Aufgabe im Leben ist, ein vielversprechender College-Bewerber zu sein. Aber das bedeutet, dass ihr euer Leben auf einen Prozess ausrichten der sowas von sinnlos ist, dass es eine ganze Industrie gibt, die sich der Untergrabung des Prozesses verschrieben hat. Kein Wunder, dass viele zynisch werden. Das Unwohlsein, das du empfindest, ist dasselbe, das ein Produzent von Reality-TV-Shows oder ein Manager der Tabakindustrie empfindet. Und du bekommst nicht einmal viel Geld dafür.
+
+Was also solltest du tun? Was du nicht tun solltest, ist rebellieren. Das habe ich getan, und es war ein Fehler. Ich wusste nicht genau, was mit uns passierte, aber ich witterte einen großen Betrug. Und so gab ich einfach auf. Die Welt war offensichtlich beschissen, also warum sich die Mühe machen?
+
+Als ich entdeckte, dass eine unserer Lehrerinnen selbst Lektürehilfen benutzte, verlor der Kurs jede Bedeutet für mich. Es bedeutet schlichtweg nichts, in einem solchen Kurs eine gute Note zu bekommen.
+
+Im Nachhinein betrachtet war das dumm. Es war, als würde jemand in einem Fußballspiel gefoult werden und sagen: "Hey, du hast mich gefoult, das ist gegen die Regeln", und voller Empörung vom Spielfeld gehen. Fouls passieren. Wenn man gefoult wird, darf man nicht die Fassung verlieren. Spiel einfach weiter.
+
+Indem die Gesellschaft dich in diese Situation gebracht hat, hat sie dich gefoult. Ja, wie du vermutet hast, ist vieles, was du in deinen Kursen lernst, Mist. Und ja, wie du vermutest, ist das Uni-Aufnahmeverfahren weitgehend eine Farce. Aber wie viele Fouls war auch dieses unbeabsichtigt. Also spiel einfach weiter.
+
+Rebellion ist fast so dumm wie Gehorsam. In beiden Fällen lässt man sich durch das, was gesagt bekommt das man es zu tun hat, definieren. Der beste Plan, denke ich, ist, auf einen orthogonalen Vektor zu steigen. Tu nicht einfach das, was man dir sagt, und weigere dich nicht einfach, es zu tun. Behandle stattdessen die Schule wie einen Tagesjob. Als Tagesjob ist die Schule ziemlich angenehm. Man ist um 3 Uhr fertig und kann sogar an eigenen Sachen arbeiten, während man dort ist.
+
+Neugier
+
+Und was sollte dein richtiger Job sein? Falls du nicht Mozart bist, ist es deine erste Aufgabe, das herauszufinden. Was sind die großen Herausforderungen, an denen man arbeiten sollte? Wo tummeln sich phantasievolle Menschen? Und vor allem: Was interessiert dich? Das Wort "Begabung" ist irreführend, denn es impliziert etwas Angeborenes. Die stärkste Art von Begabung ist ein brennendes Interesse an einer bestimmten Frage, und solche Interessen sind oft im Laufe des Lebens erworbene Vorlieben.
+
+Eine verzerrte Auffassung dieser Idee hat sich unter dem Namen "Leidenschaft" in die Populärkultur eingeschlichen. Ich habe kürzlich eine Anzeige für Kellner gesehen, in der sie Leute mit einer "Leidenschaft für den Service" suchten. Die echte Sache über die ich hier rede ist nichts, was man für das Kellnern haben könnte. Und Leidenschaft ist ein schlechtes Wort dafür. Ein besserer Name wäre Neugier.
+
+Kinder sind neugierig, aber die Neugier, die ich meine, hat eine andere Form als die Neugier von Kindern. Die kindliche Neugier ist breit und oberflächlich; sie fragen wahllos nach dem Warum. Bei den meisten Erwachsenen trocknet diese Neugier völlig aus. Sie muss: Man kann nichts erreichen, wenn man immer nach dem Warum von allem fragt. Aber bei ehrgeizigen Erwachsenen versiegt die Neugier nicht vollständig, sondern wird eng und tief. Das Wattenmeer verwandelt sich in einen Brunnen.
+
+Neugier macht Arbeit zum Spiel. Für Einstein war die Relativitätstheorie kein Buch voller schwieriger Sachen, die er für eine Prüfung lernen musste. Es war ein Rätsel, das er zu lösen versuchte. Es fühlte sich für ihn wahrscheinlich weniger anstrengend an, es zu erfinden, als es jetzt jemandem scheint, der es in einem Kurs lernen will.
+
+Eine der gefährlichsten Illusionen, die man in der Schule vermittelt bekommt, ist die Vorstellung, dass es viel Disziplin erfordert, große Dinge zu tun. Die meisten Fächer werden so langweilig unterrichtet, dass man sich nur durch Disziplin durchquälen kann. Deshalb war ich überrascht, als ich zu Beginn des Studiums ein Zitat von Wittgenstein las, in dem er sagte, dass er keine Selbstdisziplin habe und sich nie etwas verweigern konnte, nicht einmal eine Tasse Kaffee.
+
+Jetzt kenne ich eine Reihe von Leuten, die großartige Dinge vollbringen, und es ist bei allen dasselbe. Sie haben wenig Disziplin. Sie alle sind schreckliche Aufschieber und finden es fast unmöglich, sich zu etwas zu zwingen, das sie nicht interessiert. Einer hat immer noch nicht die Hälfte der Dankesbriefe von seiner Hochzeit vor vier Jahren verschickt. Eine andere hat 26.000 E-Mails in ihrem Posteingang.
+
+Ich sage nicht, dass man mit null Selbstdisziplin durchkommt. Wahrscheinlich brauchen Sie ungefähr die Menge, die Sie zum Joggen brauchen. Ich zögere oft, joggen zu gehen, aber wenn ich es einmal getan habe, genieße ich es. Und wenn ich mehrere Tage nicht laufe, fühle ich mich krank. So ist es auch mit Menschen, die Großes leisten. Sie wissen, dass sie sich schlecht fühlen, wenn sie nicht arbeiten, und sie haben genug Disziplin, um sich an ihren Schreibtisch zu setzen und mit der Arbeit zu beginnen. Aber wenn sie erst einmal angefangen haben, übernimmt das Interesse die Oberhand, und Disziplin ist nicht mehr nötig.
+
+Glaubst du, Shakespeare hat die Zähne zusammengebissen und fleißig versucht, große Literatur zu schreiben? Nein, natürlich nicht. Er hatte Spaß. Deshalb war er so gut.
+
+Wenn man gute Arbeit leisten will, braucht man große Neugier bezüglich einer vielversprechenden Frage. Der kritische Moment für Einstein war, als er sich die Maxwell-Gleichungen ansah und sagte: Was zum Teufel passiert hier?
+
+Es kann Jahre dauern, bis man sich auf eine produktive Frage konzentrieren kann, denn es kann Jahre dauern, bis man herausfindet, worum es bei einem Thema wirklich geht. Um ein extremes Beispiel zu nehmen, betrachten Sie die Mathematik. Die meisten Leute glauben, dass sie Mathematik hassen, aber das langweilige Zeug, das man in der Schule unter dem Namen "Mathematik" behandelt, hat nichts mit dem zu tun, was Mathematiker wirklich tun.
+
+Der große Mathematiker G. H. Hardy sagte, dass er Mathe auch in der Highschool nicht mochte. Er hat es nur deshalb gewählt, weil er besser als die anderen Schüler darin war. Erst später erkannte er, dass Mathematik interessant war - erst später begann er, Fragen zu stellen, anstatt sie nur richtig zu beantworten.
+
+
+Wenn ein Freund von mir meckerte, weil er einen Aufsatz für die Schule schreiben musste, sagte seine Mutter immer: "Sucht einen Weg, um es interessant zu machen". Das ist es, was Sie tun müssen: Finden Sie eine Frage, die die Welt interessant macht. Menschen, die großartige Dinge tun, sehen sich dieselbe Welt an wie alle anderen auch, aber sie bemerken einige seltsame Details, die unwiderstehlich mysteriös sind.
+
+Und das nicht nur in intellektuellen Fragen. Henry Fords große Frage war: Warum müssen Autos ein Luxusartikel sein? Was würde passieren, wenn man sie als eine normale Handelsware behandeln würde? Die von Franz Beckenbauer war in der Tat: Warum muss jeder in seiner Position bleiben? Warum können die Verteidiger nicht auch Tore schießen?
+
+Jetzt
+
+Wenn es Jahre dauert, um großartige Fragen zu formulieren, was solltest du jetzt mit sechzehn machen? Darauf hinarbeiten, eine zu finden. Große Fragen tauchen nicht plötzlich auf. Sie verdichten sich allmählich in deinem Kopf. Und was sie erstarren lässt, ist die Erfahrung. Der Weg, großartige Fragen zu finden, besteht also nicht darin, sie zu suchen - nicht darin, umherzuwandern und zu denken: Welche große Entdeckung soll ich machen? Das kann man nicht beantworten; wenn man es könnte, hätte man es geschafft.
+
+Der Weg, um eine große Idee in deinem Kopf entstehen zu lassen, besteht nicht darin, nach großen Ideen zu suchen, sondern viel Zeit in die Arbeit zu investieren, die dich interessiert, und dabei den Geist so offen zu halten, dass sich eine große Idee einnisten kann. Einstein, Ford und Beckenbauer haben alle dieses Rezept benutzt. Sie alle kannten ihre Arbeit wie ein Klavierspieler die Tasten. Wenn ihnen dann etwas fehlerhaft erschien, hatten sie das Selbstvertrauen, es zu bemerken.
+
+Wie und worauf solltest du Zeit verwenden? Such dir einfach ein Projekt aus, das dir interessant erscheint: eine gewisse Materie beherrschen, etwas herzustellen oder eine Frage beantworten. Wähl ein Projekt, das weniger als einen Monat dauert, und bei dem du über die nötigen Mittel verfügst um es fertigstellen zu können. Mach etwas, das schwer genug ist, so dass du dich strecken musst, aber nur ein bisschen, insbesondere am Anfang. Wenn Sie sich zwischen zwei Projekten entscheiden, wähle das, was dir am meisten Spaß macht. Wenn dir ein Projekt um die Ohren fliegt, fang einfach ein anderes an. Wiederhol das Ganze so lange, bis sich der Prozess wie ein Verbrennungsmotor selbst trägt und jedes Projekt das nächste generiert. (Das kann Jahre dauern).
+
+Es kann genauso viel Sinn machen einem Projekt nachzugehen dass nichts mit der Schule zu tun hat, falls dich das einschränken würde oder das Ganze wie Arbeit erscheinen lassen würde. Beziehen Sie Ihre Freunde mit ein, wenn Sie wollen, aber nicht zu viele, und nur, wenn sie keine Spinner sind. Freunde leisten moralische Unterstützung (nur wenige Startups werden von einer einzigen Person gestartet), aber Geheimhaltung hat auch ihre Vorteile. Ein geheimes Projekt hat etwas Befriedigendes an sich. Und man kann mehr Risiken eingehen, weil niemand merkt, wenn man scheitert.
+
+mach dir keine Sorgen, wenn ein Projekt nicht auf dem Weg zu irgendeinem Ziel zu sein scheint, das du eigentlich haben sollten. Wege können sich viel mehr krümmen, als du denkst. Lass also den Weg aus dem Projekt heraus entstehen. Das Wichtigste ist, dass du dich dafür begeisterst, denn nur so lernst du.
+
+Ignoriere auf keinen Fall "unangebrachte" Antriebe. Eine der mächtigsten ist der Wunsch, bei etwas besser zu sein als andere Menschen. Hardy sagte, das sei der Grund warum er überhaupt mit der Mathematik angefangen hat, und ich glaube, das einzig Ungewöhnliche an ihm ist, dass er es zugegeben hat. Ein weiterer starker Motivator ist der Wunsch, Dinge zu tun oder zu wissen, die man nicht tun sollte. Eng damit verbunden ist der Wunsch, etwas Kühnes zu tun. Sechzehnjährige sollen keine Romane schreiben. Wenn man es also versucht, steht alles, was man erreicht, auf "Habenseite"; wenn man gänzlich scheitert, ist man nicht schlechter als erwartet. [8]
+
+Hüte dich vor schlechten Vorbildern. Vor allem, wenn sie Faulheit entschuldigen. Als ich in der Highschool war, schrieb ich "existentialistische" Kurzgeschichten, wie ich sie von berühmten Schriftstellern kannte. Meine Geschichten hatten nicht viel Handlung, aber sie waren sehr tiefgründig. Und es war weniger Arbeit, sie zu schreiben, als es unterhaltsame Geschichten gewesen wären. Ich hätte wissen müssen, dass das ein Warnsignal ist. Und in der Tat fand ich meine Geschichten selbst ziemlich langweilig; was mich begeisterte, war die Idee, ernsthafte, intellektuelle Dinge wie die berühmten Schriftsteller zu schreiben.
+
+Jetzt habe ich genug Erfahrung, um zu erkennen, dass diese berühmten Schriftsteller wirklich Mist waren. Viele berühmte Leute tun das; auf kurze Sicht ist die Qualität der eigenen Arbeit nur eine kleine Komponente des Erfolges. Ich hätte mir weniger Sorgen machen sollen, etwas zu tun, das mir cool erschien, und einfach etwas tun sollen, das mir gefällt. Das ist sowieso der eigentliche Weg zur Coolness.
+
+Ein wichtiger Bestandteil vieler Projekte, fast ein Projekt für sich allein, ist es, gute Bücher zu finden. Die meisten Bücher sind schlecht. Fast alle Lehrbücher sind schlecht. [9]  Glaub also nicht, dass ein Thema aus dem Buch gelernt werden sollte, dass du als erstes findest. Sie müssen aktiv nach der winzigen Anzahl guter Bücher suchen.
+
+Das Wichtigste ist, dass man rausgeht und etwas tut. Anstatt darauf zu warten, dass man unterrichtet wird, gehen Sie raus und lernen Sie.
+
+Dein Leben muss nicht von Zulassungsbeamten gestaltet werden. Es könnte von deiner eigenen Neugierde geprägt sein. Das ist für alle ambitionierten Erwachsenen der Fall. Und du musst nicht warten, um damit anzufangen. Tatsächlich musst du nicht warten, bis du Erwachsenen bist. Es gibt keinen Schalter in dir, der sich auf magische Weise umlegt, wenn du ein bestimmtes Alter erreichst oder einen bestimmte Abschluss erhälst. Man beginnt erwachsen zu sein, wenn man sich dazu entscheidet, Verantwortung für sein Leben zu übernehmen. Das kann man in jedem Alter tun. [10]
+
+Das mag sich wie Schwachsinn anhören. Vielleicht denkst du, "ich bin nur minderjährig, ich habe kein Geld, ich muss zu Hause leben, ich muss den ganzen Tag das tun, was die Erwachsenen mir sagen". Nun, die meisten Erwachsenen arbeiten unter ähnlich restriktiven Einschränkungen und schaffen es trotzdem Dinge zu erledigen. Wenn du denkst, dass es restriktiv ist, ein Kind zu sein, stellen dir vor, Kinder zu haben.
+
+Der einzige wirkliche Unterschied zwischen Erwachsenen und Schulkindern besteht darin, dass Erwachsene erkennen, dass sie Dinge erledigen müssen, und Schüler nicht. Diese Erkenntnis haben die meisten Menschen um die 23 Jahre herum. Aber ich verrate dir dieses Geheimnis schon frühzeitig. Also machen dich an die Arbeit. Vielleicht könnte ihr die erste Generation sein, deren größtes Bedauern bezüglich ihrer Highschool-Zeit nicht darin besteht, wie viel Zeit Sie verschwendet haben.
+
+Notizen
+
+[1] Ein befreundeter Arzt warnt, dass selbst dies ein ungenaues Bild ergeben kann. "Wer wusste schon, wie viel Zeit es kostet, wie wenig Autonomie man nach jahrelangem Training hat und wie unglaublich lästig es ist, einen Piepser zu tragen? 
+
+[2] Seine beste Chance wäre wohl, ein Diktator zu werden und die NBA einzuschüchtern, damit sie ihn spielen lässt.  Bislang ist der Arbeitsminister dem Ganzen am nächsten gekommen. 
+
+[3] Ein Tagesjob ist ein Job, den man annimmt, um die Rechnungen zu bezahlen, damit man tun kann, was man wirklich will, wie in einer Band spielen oder die Relativitätstheorie erfinden. 
+
+Wenn man die Highschool wie einen Tagesjob behandelt, könnte es für einige Schüler tatsächlich leichter sein, gute Noten zu bekommen.  Wenn du deine Kurse als ein Spiel betrachtest, wirst du nicht demoralisiert, wenn sie sinnlos erscheinen. 
+
+Wie schlecht deine Kurse auch sein mögen, du musst gute Noten in ihnen bekommen, um auf eine anständige Hochschule zu kommen.  Und das ist es wert, denn an den Universitäten gibt es heutzutage eine Menge kluger Leute. 
+
+[4] Das zweitgrößte Bedauern war, dass man sich so sehr um unwichtige Dinge kümmerte.  Und vor allem darüber, was andere Leute über sie dachten. 
+
+Ich denke, was sie im letzteren Fall wirklich meinen, ist, dass sie sich darum kümmern, was irgendwelche Leute über sie denken. Erwachsene kümmern sich genauso sehr darum, was andere Menschen denken, aber sie können bei den anderen Menschen selektiver sein.
+
+Ich habe etwa dreißig Freunde, deren Meinung mir wichtig ist, und die Meinung der übrigen Welt berührt mich kaum. Das Problem in der Highschool ist, dass Ihre Altersgenossen durch Zufälle in Bezug auf Alter und Geographie für Sie ausgewählt werden, und nicht durch Sie auf der Grundlage des Respekts vor ihrem Urteilsvermögen.
+
+[5] Der Schlüssel zur Zeitverschwendung ist Ablenkung. Ohne Ablenkung ist es für Ihr Gehirn zu offensichtlich, dass Sie nichts damit anfangen, und Sie beginnen, sich unwohl zu fühlen. Wenn Sie messen wollen, wie abhängig Sie von Ablenkungen geworden sind, versuchen Sie dieses Experiment: Nehmen Sie sich am Wochenende etwas Zeit und sitzen Sie allein und denken Sie nach. Sie können ein Notizbuch haben, in das Sie Ihre Gedanken eintragen können, aber sonst nichts: keine Freunde, kein Fernsehen, keine Musik, kein Telefon, kein Messenger, keine E-Mail, kein Internet, keine Spiele, keine Bücher, keine Zeitungen oder Zeitschriften. Innerhalb einer Stunde werden die meisten Menschen ein starkes Verlangen nach Ablenkung verspüren.
+
+[6] Ich will nicht unterstellen, dass die einzige Funktion der Prep-Schools darin besteht, die Zulassungsbeamten zu täuschen. Sie bieten im Allgemeinen auch eine bessere Ausbildung. Aber versuchen Sie dieses Gedankenexperiment: Nehmen wir an, die Vorbereitungsschulen bieten dieselbe bessere Ausbildung, haben aber einen winzigen (.001) negativen Effekt auf die College-Zulassung. Wie viele Eltern würden ihre Kinder trotzdem zu ihnen schicken?
+
+Man könnte auch argumentieren, dass Kinder, die auf eine Prep-School gingen, weil sie mehr gelernt haben, bessere Uni-Kandidaten sind. Aber das scheint empirisch falsch zu sein. Was man selbst in der besten High School lernt, ist ein Rundungsfehler im Vergleich zu dem, was man auf dem College lernt. Die Kinder der öffentlichen Schulen kommen mit einem leichten Nachteil auf das College, aber sie beginnen im zweiten Studienjahr die Führung zu übernehmen.
+
+(Ich sage nicht, dass Kinder an öffentlichen Schulen klüger sind als Prep-Schüler, sondern nur, dass dies an einem beliebigen College der Fall ist. Das folgt notwendigerweise, wenn man sich einig ist, dass Prep-Schools die Aufnahmeaussichten der Kinder verbessern).
+
+[7] Warum foult dich die Gesellschaft? Vor allem aus Gleichgültigkeit. Es gibt einfach keine äußeren Kräfte, die die Highschool dazu drängen, gut zu sein. Das Flugverkehrskontrollsystem funktioniert, weil die Flugzeuge sonst abstürzen würden. Die Unternehmen müssen liefern, weil sonst die Konkurrenz ihre Kunden wegnehmen würde. Aber keine Flugzeuge stürzen ab, wenn Ihre Schule schlecht ist, und sie hat keine Konkurrenz. Die Highschool ist nicht böse; sie ist willkürlich; aber willkürlich ist ziemlich schlecht.
+
+[8] Und dann gibt es natürlich auch noch Geld. Es ist kein großer Faktor in der Highschool, denn man kann nicht viel tun, was andere wirklich wollen. Aber eine Menge großartiger Dinge wurden hauptsächlich geschaffen, um Geld zu verdienen. Samuel Johnson sagte: "Niemand außer einem Dummkopf hat jemals geschrieben, außer für Geld. (Viele hoffen, dass er übertrieben hat.)
+
+[9] Sogar College-Lehrbücher sind schlecht. Wenn Sie aufs College gehen, werden Sie feststellen, dass die Lehrbücher (mit einigen wenigen Ausnahmen) nicht von den führenden Wissenschaftlern auf dem Gebiet geschrieben wurden, das sie beschreiben. Das Schreiben von College-Lehrbüchern ist eine unangenehme Arbeit, die meist von Leuten geleistet wird, die das Geld brauchen. Es ist unangenehm, weil die Verleger so viel Kontrolle ausüben, und es gibt kaum etwas Schlimmeres als eine enge Überwachung durch jemanden, der nicht versteht, was man tut. Dieses Phänomen ist offenbar noch schlimmer bei der Produktion von Schulbüchern für die Highschool.
+
+[10] Ihre Lehrer sagen immer, dass du dich wie ein Erwachsener verhalten solltest. Ich frage mich, ob sie es gerne hätten, wenn du das tun würdest. Du magst laut und unorganisiert sein, aber im Vergleich zu Erwachsenen bist du sehr fügsam. Wenn du tatsächlich anfangen würdest, dich wie Erwachsene zu benehmen, wäre es so, als ob ein Erwachsener in deine Körper transponiert worden wäre. Stellen dir die Reaktion eines FBI-Agenten oder eines Taxifahrers oder eines Reporters vor, wenn man ihm sagt, er müsse um Erlaubnis bitten, auf die Toilette zu gehen, und nur eine Person könne gleichzeitig gehen. Ganz zu schweigen von den Dingen, die man dir beigebracht hat. Wenn ein Haufen Erwachsener plötzlich in der Highschool gefangen wäre, würden sie als erstes eine Gewerkschaft gründen und alle Regeln mit der Verwaltung neu verhandeln.
+
+Danke an Ingrid Bassett, Trevor Blackwell, Rich Draves, Dan Giffin, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, Mark Nitzberg, Lisa Randall und Aaron Swartz für das Lesen der Entwürfe und an viele andere, die mit mir über die Highschool gesprochen haben.
+
+
+---
+
+Dieser Essay ist eine Übersetzung von Paul Graham's Essay What You'll Wish You'd Known, der online  [hier](http://www.paulgraham.com/hs.html) veröffentlicht wurde.
+
+
+
