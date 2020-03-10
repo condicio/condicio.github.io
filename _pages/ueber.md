@@ -3,7 +3,7 @@ layout: post
 title:  Über "oder normal"
 permalink: "/ueber.html"
 image: assets/images/gluecklich-oder-normal2.png
-description: This is my awesome writeup of this fantastic thing
+description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, ...
 slug: ueber
 ---
 
