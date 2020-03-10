@@ -6,14 +6,8 @@ author: "Göran Backlund"
 image: assets/images/backlundmockup20.png
 ---
 
-- **Erscheinungsdatum: 1. April 2020**
-- **Seiten: 62**
-- **Preis: 9.99€**
 
 
-
-
-## Kurzbeschreibung
 
 Dieses philosophische Werk dekonstuiert Schritt für Schritt die Vorstellung einer externen Welt. Es wird jegliches falsches Denken, das diese Idee umgibt und auf dem alles andere aufbaut, effektiv unter die Lupe genommen und auseinander genommen. Der Sinn des Ganzen? Sie von allen Vorstellungen eines "Selbst" zu befreien und Ihnen zu erlauben, die rohe, nicht-duale Wahrheit des Seins direkt zu entdecken.
 
@@ -22,6 +16,12 @@ Dies ist nicht die erste Arbeit, die sich mit diesem Thema befasst. Aber andere 
 Aber es ist ein Buch, das sich von allen anderen Büchern über das nicht-dualen Erwachen unterscheidet. Sie werden darin keine subtilen 'Hinweise' finden. Was Sie darin finden werden, ist knallharte Logik, die an der Grundlage der Existenz selbst rüttelt. Und in deren Folge, wenn sich der Staub wieder legt, werden Sie erkennen, dass die Worte der Weisen nicht nur die ganze Zeit über wahr waren, sondern dass sie von einer entfernten Möglichkeit zum Licht und zum Leitprinzip Ihres Lebens geworden sind. Welche Worte?
 
 >Bewusstheit ist alles.
+
+## Das Wichtigste in Kürze
+
+- **Erscheinungsdatum: 1. April 2020**
+- **Seiten: 62**
+- **Preis: 9.99€**
 
 ## Über den Göran Backlund
 
