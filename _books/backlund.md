@@ -6,9 +6,9 @@ author: "Göran Backlund"
 image: assets/images/backlundmockup20.png
 ---
 
-**Erscheinungsdatum: 1. April 2020**
-**Seiten: 62**
-**Preis: 9.99€**
+- **Erscheinungsdatum: 1. April 2020**
+- **Seiten: 62**
+- **Preis: 9.99€**
 
 
 
