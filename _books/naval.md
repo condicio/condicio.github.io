@@ -3,7 +3,7 @@ layout: post
 title:  "Wie Man Reich Wird"
 categories: [ Buch ]
 author: "Naval Ravikant"
-image: assets/images/navalmockup40.png
+image: assets/images/navalmockup50.png
 ---
 
 - **Erscheinungsdatum: 1. Mai 2020**
