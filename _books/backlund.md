@@ -16,6 +16,9 @@ Aber es ist ein Buch, das sich von allen anderen Büchern über das nicht-dualen
 
 ## Über den Göran Backlund
 
+![Göran Backlund](/assets/images/goran_backlund.png)
+
+
 Göran Backlund ist ein schwedischer Philosoph und Autor der sich hauptsächlich mit den Themen Nicht-Dualität und Freiheit auseinandersetzt.
 
 >"Es gibt nichts, was Sie tun können, um sich jemals etwas anderes als Ihr eigenes Bewusstsein zu erleben".
