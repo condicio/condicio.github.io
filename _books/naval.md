@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wie Man Reich Wird"
+title:  "Wie man reich wird"
 categories: [ Buch ]
 author: "Naval Ravikant"
 image: assets/images/navalmockup60.png
