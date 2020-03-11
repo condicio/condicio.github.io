@@ -10,6 +10,8 @@ image: assets/images/navalmockup60.png
 
 Mit Thesen wie diesen inspiriert Naval Ravikant seit Jahren tausende Menschen in aller Welt.
 
+{% include convertkit.html %}
+
 Ein wegweisendes Werk, nicht nur hinsichtlich seines Inhalts sondern auch wegen seiner Entstehungsgeschichte. Zunächst erschien "Wie Man Reich Wird" als [Tweetstorm](https://twitter.com/naval/status/1002103360646823936) und mauserte sich schnell zu einem der erfolgreichsten Beiträge die jemals auf Twitter veröffentlicht wurde. Anschließend wurden die Ideen, die im Tweetstorm nur in komprimierter Form zusammengefasst waren, in einem [dreistündigen Podcast](https://nav.al/rich) weiter ausgeführt. Der Podcast wiederum wurde von Fans in verschiedensten Formen [transkribiert](http://guustaaf.com/naval/), [übersetzt](https://note.com/tokyojack/n/nc5223ee7422d) und [formatiert](https://principlesofwealth.net/). Erstmalig ist hier die ungekürzte Version auch auf Deutsch verfügbar.
 
 
