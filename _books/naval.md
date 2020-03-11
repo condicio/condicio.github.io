@@ -6,7 +6,8 @@ author: "Naval Ravikant"
 image: assets/images/navalmockup50.png
 ---
 
-Hi! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Ein wegweisendes Werk, nicht nur hinsichtlich seines Inhalts sondern auch wegen seiner Entstehungsgeschichte. Zunächst erschien "Wie Man Reich Wird" als Tweetstorm, der dann in einem dreistündigen Podcast weiter ausgeführt wurde, und anschließend von Fans in verschiedensten Formen transkribiert und formatiert wurde. Erstmalig ist hier die ungekürzte Version auch auf Deutsch verfügbar.
 
 ## Das Wichtigste in Kürze
 
