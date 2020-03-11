@@ -18,3 +18,8 @@ Hi! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eir
 - **Preis: Gratis**
 
 ## Über den Autor
+
+![Göran Backlund](/assets/images/mcroberts.jpg){: style="float: right;height:100px;margin-left:20px;"}
+
+
+Sam McRoberts ist der CEO von VUDU Marketing und veröffentlicht regelmäßig Artikel in Magazinen wie INC und dem Entrepreneur Magazin.
