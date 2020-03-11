@@ -15,7 +15,7 @@ Dies ist nicht die erste Arbeit, die sich mit diesem Thema befasst. Aber andere 
 
 Aber es ist ein Buch, das sich von allen anderen Büchern über das nicht-dualen Erwachen unterscheidet. Sie werden darin keine subtilen 'Hinweise' finden. Was Sie darin finden werden, ist knallharte Logik, die an der Grundlage der Existenz selbst rüttelt. Und in deren Folge, wenn sich der Staub wieder legt, werden Sie erkennen, dass die Worte der Weisen nicht nur die ganze Zeit über wahr waren, sondern dass sie von einer entfernten Möglichkeit zum Licht und zum Leitprinzip Ihres Lebens geworden sind. Welche Worte?
 
->Bewusstheit ist alles.
+Bewusstheit ist alles.
 
 ## Das Wichtigste in Kürze
 
