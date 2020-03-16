@@ -4,6 +4,8 @@ title:  "Ja, du solltest Unternehmer sein"
 author: "Jakob Berg"
 categories: [ Selbstverwirklichung ]
 image: assets/images/unternehmer2.png
+tags: [empfehlung]
+
 --- 
 
 Die meisten klugen Köpfe heutzutage verbringen leider den größten Teil ihrer Zeit mit trivialen Aufgaben, in Unternehmen in denen sie unsichtbar bleiben. Viele von ihnen wissen, dass sie ihre Zeit mit eigentlich sinnlosen Aufgaben verbringen. Oftmals ist es für die Karriere förderlicher wenn man sich darauf fokussiert produktiv zu erscheinen, anstatt wirklich produktiv zu sein. Wertgeschätzt wird was sichtbar ist, nicht was sinnvoll ist. 
