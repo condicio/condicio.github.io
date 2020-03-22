@@ -25,12 +25,12 @@ Mit Thesen wie diesen inspiriert Naval Ravikant seit Jahren tausende Menschen in
 
 ## Über die Autoren
 
-![Naval Ravikant](/assets/images/navsmall.png){: style="float: right;height:100px;margin-left:20px;"}
+![Naval Ravikant](/assets/images/navsmall.png){: style="float: right;height:200px;margin-left:20px;"}
 
 
 Naval Ravikant ist Mitbegründer der Unternehmen AngelList und Epinions. Er ist zudem ein bekannter Tech-Investor in Unternehmen wie Twitter und Uber.
 
-![Babak Nivi](/assets/images/nivsmall.png){: style="float: right;height:100px;margin-left:20px;"}
+![Babak Nivi](/assets/images/nivsmall.png){: style="float: right;height:200px;margin-left:20px;"}
 
 Babak Nivi ist ebenfalls ein Mitbegründer von AngelList und veröffentlichte früher gemeinsam mit Naval Ravikant den populären Venture Hacks Blog.
 
