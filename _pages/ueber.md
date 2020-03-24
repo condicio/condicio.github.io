@@ -2,7 +2,7 @@
 layout: post
 title:  Über "oder normal?"
 permalink: "/ueber.html"
-image: assets/images/odernorma.png
+image: assets/images/odernormal.png
 description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, ...
 slug: ueber
 ---
