@@ -2,12 +2,11 @@
 layout: post
 title:  Über "oder normal?"
 permalink: "/ueber.html"
-image: assets/images/odernormal.png
+image: assets/images/odernormalmindmap.png
 description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, ...
 slug: ueber
 ---
 
-![Minmap](/assets/images/odernormalmindmap.png)
 
 
 Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, und mit wem man seine Zeit verbingt, werden andere diese Aufgabe übernehmen. Ohne bewusste Entscheidungen rutscht jeder Mensch in ein normales Leben. 
