@@ -20,4 +20,4 @@ Der Erforschung dieser Fragen ist "oder normal" gewidmet.
 
 >Jeder den du triffst fragt dich ob du Karriere machst, verheiratet bist oder ein Haus besitzt, als ob das Leben eine Art Einkaufsliste wäre. Aber niemand fragt dich jemals, ob du glücklich bist. - Heath Ledger 
 
-![Minmap](/assets/images/condiciohumana.png)
+![Minmap](/assets/images/condiciohumana2.png)
