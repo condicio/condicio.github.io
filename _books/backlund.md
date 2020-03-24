@@ -3,7 +3,7 @@ layout: post
 title:  "Die Widerlegung der Externen Welt"
 categories: [ Buch ]
 author: "Göran Backlund"
-image: assets/images/widerlegung_mockup_9.png
+image: assets/images/widerlegung_mockup_10.png
 ---
 
 
