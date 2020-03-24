@@ -16,7 +16,7 @@ Der Widerspruch zwischem dem was man hören würde falls man tief in sich hinein
 - Will ich glücklich sein oder normal?
 - Will ich frei sein oder normal?
 
-Der Erforschung dieser Fragen ist "oder normal" gewidmet.
+Der Erforschung dieser Fragen ist Condicia Humana gewidmet.
 
 >Jeder den du triffst fragt dich ob du Karriere machst, verheiratet bist oder ein Haus besitzt, als ob das Leben eine Art Einkaufsliste wäre. Aber niemand fragt dich jemals, ob du glücklich bist. - Heath Ledger 
 
