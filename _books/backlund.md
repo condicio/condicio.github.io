@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title:  "Die Widerlegung der Externen Welt"
 categories: [ Buch ]
 author: "Göran Backlund"
