@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Über "oder normal?"
+title:  Über Condicio Humana
 permalink: "/ueber.html"
 image: assets/images/odernormal.png
 description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, ...
@@ -20,4 +20,4 @@ Der Erforschung dieser Fragen ist "oder normal" gewidmet.
 
 >Jeder den du triffst fragt dich ob du Karriere machst, verheiratet bist oder ein Haus besitzt, als ob das Leben eine Art Einkaufsliste wäre. Aber niemand fragt dich jemals, ob du glücklich bist. - Heath Ledger 
 
-![Minmap](/assets/images/odernormalmindmap.png)
+![Minmap](/assets/images/condiciohumana.png)
