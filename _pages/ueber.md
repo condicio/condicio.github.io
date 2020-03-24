@@ -2,7 +2,7 @@
 layout: post
 title:  Über "oder normal?"
 permalink: "/ueber.html"
-image: assets/images/odernormalmindmap.png
+image: assets/images/odernorma.png
 description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, ...
 slug: ueber
 ---
@@ -19,3 +19,5 @@ Der Widerspruch zwischem dem was man hören würde falls man tief in sich hinein
 Der Erforschung dieser Fragen ist "oder normal" gewidmet.
 
 >Jeder den du triffst fragt dich ob du Karriere machst, verheiratet bist oder ein Haus besitzt, als ob das Leben eine Art Einkaufsliste wäre. Aber niemand fragt dich jemals, ob du glücklich bist. - Heath Ledger 
+
+![Minmap](/assets/images/odernormalmindmap.png)
