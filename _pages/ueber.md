@@ -7,9 +7,9 @@ description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich se
 slug: ueber
 ---
 
+Eines ist sicher: die Zeit zwischen Geburt und Tod verbringen sie in der Condicio Humana, im "menschlichen Zustand". Allerdings wie Sie die Zeit zwischen Geburt und Tod gestalten liegt ganz bei Ihnen.
 
-
-Wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, und mit wem man seine Zeit verbingt, werden andere diese Aufgabe übernehmen. Ohne bewusste Entscheidungen rutscht jeder Mensch in ein normales Leben. 
+Jedoch wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, und mit wem man seine Zeit verbingt, werden andere diese Aufgabe übernehmen. Ohne bewusste Entscheidungen verbringen die meisten Menschen ihre Zeit mit Dingen, die sie weder möchten noch selbst gewählt haben.
 
 Der Widerspruch zwischem dem was man hören würde falls man tief in sich hinein hören würde und der eigenen Lebensrealitätist die perfekte Mixtur für ein unerfülltes Leben. Der einzige Ausweg ist, dass man sich unbequemen Fragen 
 
