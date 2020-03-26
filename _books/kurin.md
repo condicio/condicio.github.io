@@ -23,15 +23,13 @@ Mit Thesen wie diesen inspiriert Naval Ravikant seit Jahren tausende Menschen in
 - **Seiten: 120**
 - **Preis: Gratis**
 
-## Über die Autoren
+## Über die Autorin
 
-![Naval Ravikant](/assets/images/navsmall.png){: style="float: right;height:150px;margin-left:20px;"}
+![Kayla Kurin](/assets/images/kaylasmall.png){: style="float: right;height:250px;margin-left:20px;"}
 
 
-Naval Ravikant ist Mitbegründer der Unternehmen AngelList und Epinions. Er ist zudem ein bekannter Tech-Investor in Unternehmen wie Twitter und Uber.
+Kayla Kurin ist Schriftstellerin, Yogi und ständig auf Reisen. Ursprünglich stammt sie aus Kanada und hat mittlerweile in über 40 Ländern gelebt und gearbeitet. 
 
-![Babak Nivi](/assets/images/nivsmall.png){: style="float: right;height:150px;margin-left:20px;"}
 
-Babak Nivi ist ebenfalls ein Mitbegründer von AngelList und veröffentlichte früher gemeinsam mit Naval Ravikant den populären Venture Hacks Blog.
 
 
