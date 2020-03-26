@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wo gibt es hier denn WLAN?"
+title:  "Wo gibt es hier eigentlich WLAN?"
 categories: [ Buch ]
 author: "Kayla Kurin"
 image: assets/images/wifimockup4.png
