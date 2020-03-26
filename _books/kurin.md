@@ -3,7 +3,7 @@ layout: post
 title:  "Wo gibt es hier denn WLAN?"
 categories: [ Buch ]
 author: "Kayla Kurin"
-image: assets/images/wifimockup1.png
+image: assets/images/wifimockup3.png
 ---
 
 >Viele Menschen denken, dass es beim Geldverdienen um Glück geht. Das ist aber nicht der Fall. Es geht darum, die Art von Mensch zu werden, die Geld verdient. Ich denke, dass wenn ich mein ganzes Geld verlieren würde und Sie mich auf einer beliebigen Straße in irgendeinem englischsprachigen Land absetzen würden, ich innerhalb von 5, 10 Jahren wieder wohlhabend sein würde. Weil Geld verdienen eine Fähigkeit ist die ich entwickelt habe und ich bin davon überzeugt, dass jeder sich diese Fähigkeit aneignen kann.  Angenommen es gibt 1.000 Paralleluniversen, dann will man in 999 davon reich sein. Man will nicht in den 50 von ihnen wohlhabend sein, in denen man Glück hatte. Wir wollen den Faktor Glück ausschalten.
