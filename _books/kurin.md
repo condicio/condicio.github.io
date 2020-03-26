@@ -3,7 +3,7 @@ layout: post
 title:  "Wo gibt es hier denn WLAN?"
 categories: [ Buch ]
 author: "Kayla Kurin"
-image: assets/images/wifimockup3.png
+image: assets/images/wifimockup4.png
 ---
 
 Seit über sieben Jahren reist Kayla Kurin durch die Welt, und hat in dieser Zeit  in über vierzig verschiedenen Ländern gelebt und gearbeitet.  Da ihr eine Menge Fragen über ihren Lebensstil gestellt wurden, beschloss sie, ein Buch darüber zu schreiben. Wenn Sie daran interessiert sind, das Leben eines Digitalen-Nomaden kennen zu lernen, wird sie Ihnen alles beibringen was sie weiß. Außerdem berichtet sie darüber wie es ist, allein in über vierzig Länder zu reisen. 
