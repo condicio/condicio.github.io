@@ -4,6 +4,8 @@ title:  "Minimalismus: das schlanke Leben"
 author: "Leo Babauta"
 categories: [ Selbstverwirklichung ]
 image: assets/images/minimalismus.png
+tags: [empfehlung]
+
 --- 
 
 
