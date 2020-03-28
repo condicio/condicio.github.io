@@ -31,7 +31,7 @@ Wenn Sie bereit sind, frei zu sein, aus Ihrem Käfig zu entkommen und Ihren eige
 
 ## Über den Autor
 
-![Sam McRoberts](/assets/images/samsmall.jpg){: style="float: right;height:100px;margin-left:20px;"}
+![Sam McRoberts](/assets/images/samsmall.jpg){: style="float: right;height:250px;margin-left:20px;"}
 
 
 Sam McRoberts ist der CEO von VUDU Marketing und veröffentlicht regelmäßig Artikel in Magazinen wie INC und dem Entrepreneur Magazin.
