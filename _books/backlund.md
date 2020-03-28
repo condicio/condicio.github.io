@@ -22,7 +22,7 @@ Bewusstheit ist alles.
 ## Das Wichtigste in Kürze
 
 - **Erscheinungsdatum: 1. April 2020**
-- **Seiten: 62**
+- **Seiten: 58**
 - **Preis: 9.99€**
 
 ## Über den Autor
