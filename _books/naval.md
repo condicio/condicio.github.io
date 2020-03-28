@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: book
 title:  "Wie man reich wird"
 categories: [ Buch ]
 author: "Naval Ravikant, Babak Nivi"
+pdf: "/assets/books/ravikant_nivi_wie_man_reich_wird.pdf"
 image: assets/images/navalmockup101.png
 ---
 
