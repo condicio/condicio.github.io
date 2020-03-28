@@ -28,7 +28,7 @@ Bewusstheit ist alles.
 
 ## Über den Autor
 
-![Göran Backlund](/assets/images/goran_backlund.png){: style="float: right;height:100px;margin-left:20px;"}
+![Göran Backlund](/assets/images/goransmall.jpg){: style="float: right;height:250px;margin-left:20px;"}
 
 
 Göran Backlund ist ein schwedischer Philosoph und Autor der sich hauptsächlich mit den Themen Nicht-Dualität und Freiheit auseinandersetzt.
