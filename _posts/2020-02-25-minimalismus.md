@@ -3,7 +3,7 @@ layout: post
 title:  "Minimalismus: das schlanke Leben"
 author: "Leo Babauta"
 categories: [ Selbstverwirklichung ]
-image: assets/images/kleider.png
+image: assets/images/minimalismus.png
 --- 
 
 
