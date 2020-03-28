@@ -19,8 +19,8 @@ Mit Thesen wie diesen inspiriert Naval Ravikant seit Jahren tausende Menschen in
 
 ## Das Wichtigste in Kürze
 
-- **Erscheinungsdatum: 1. Mai 2020**
-- **Seiten: 120**
+- **Erscheinungsdatum: 1. April 2020**
+- **Seiten: 155**
 - **Preis: Gratis**
 
 ## Über die Autoren
