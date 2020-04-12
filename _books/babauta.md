@@ -1,6 +1,6 @@
 ---
 layout: book
-title:  "Acthsamkeit: eine kurze Einführung"
+title:  "Achtsamkeit: eine kurze Einführung"
 categories: [ Buch ]
 author: "Leo Babauta"
 pdf: "/assets/books/ravikant_nivi_wie_man_reich_wird.pdf"
