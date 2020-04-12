@@ -1,0 +1,16 @@
+---
+layout: default
+title: Bücher
+permalink: /buecher/
+---
+<h1>Bücher</h1>
+
+<ul>
+  {% for book in site.books %}
+    <li>
+      <h2>{{ book.name }}</h2>
+      <h3>{{ book.position }}</h3>
+      <p>{{ book.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
