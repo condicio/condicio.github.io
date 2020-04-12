@@ -7,16 +7,11 @@ description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich se
 slug: ueber
 ---
 
-Eines ist sicher: die Zeit zwischen Geburt und Tod verbringen sie in der Condicio Humana, im "menschlichen Zustand". Allerdings wie Sie die Zeit zwischen Geburt und Tod gestalten liegt ganz bei Ihnen.
+Eines ist sicher: die Zeit zwischen Geburt und Tod verbringen wir als Menschen auf einem kleinen, blauen Planeten namens Erde. Allerdings gibt es unendlich viele Szenarien, die sich zwischen diesen beiden Meilensteinen abspielen können. 
 
-Jedoch wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, und mit wem man seine Zeit verbingt, werden andere diese Aufgabe übernehmen. Ohne bewusste Entscheidungen verbringen die meisten Menschen ihre Zeit mit Dingen, die sie weder möchten noch selbst gewählt haben.
+Jedoch wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, und mit wem man seine Zeit verbingt, werden andere diese Aufgabe übernehmen. Ohne bewusste Entscheidungen verschwendet man seine Zeit an Dinge, die man weder mag noch selbst gewählt hat.
 
-Der Widerspruch zwischem dem was man hören würde falls man tief in sich hinein hören würde und der eigenen Lebensrealitätist die perfekte Mixtur für ein unerfülltes Leben. Der einzige Ausweg ist, dass man sich unbequemen Fragen 
 
-- Will ich glücklich sein oder normal?
-- Will ich frei sein oder normal?
-
-Der Erforschung dieser Fragen ist Condicia Humana gewidmet.
 
 >Jeder den du triffst fragt dich ob du Karriere machst, verheiratet bist oder ein Haus besitzt, als ob das Leben eine Art Einkaufsliste wäre. Aber niemand fragt dich jemals, ob du glücklich bist. - Heath Ledger 
 
