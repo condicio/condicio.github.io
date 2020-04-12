@@ -3,7 +3,7 @@ layout: post
 title:  "Achtsamkeit: eine kurze Einführung"
 categories: [ Buch ]
 author: "Leo Babauta"
-image: assets/images/achtsamkeit_mockup.png
+image: assets/images/achtsamkeit_mockup2.png
 ---
 
 Dieses Buch zeigt ihnen wie Achtsamkeit der Schlüssel dazu ist, alles in Ihrem Leben zu verändern. Und es hilft Ihnen, Achtsamkeit zu trainieren, um mit allen Schwierigkeiten umzugehen, denen Sie begegnen. Dieses kurze Buch (Sie können es in einer einzigen Sitzung lesen) enthält Übungen, mit denen Sie alles lernen, was Sie wissen müssen, um die grundlegenden Konzepte der Achtsamkeit zu verstehen.
