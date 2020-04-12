@@ -18,7 +18,7 @@ Dieses Buch zeigt ihnen wie Achtsamkeit der Schlüssel dazu ist, alles in Ihrem 
 
 ## Über den Autor
 
-![Leo Babauta](/assets/images/leo.jpeg){: style="float: right;height:150px;margin-left:20px;"}
+![Leo Babauta](/assets/images/leo3.jpg){: style="float: right;height:150px;margin-left:20px;"}
 
 
 Leo Babauta ist der Gründer des
