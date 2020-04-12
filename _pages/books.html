@@ -5,12 +5,30 @@ permalink: /buecher/
 ---
 <h1>Bücher</h1>
 
-<ul>
-  {% for book in site.books %}
-    <li>
-      <h2>{{ book.name }}</h2>
-      <h3>{{ book.position }}</h3>
-      <p>{{ book.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
+
+      
+      
+
+
+      {% for book in site.books %}
+      <div class="mb-3 d-flex align-items-center">                
+                {% if book.image %}
+                <div class="col-md-4">
+                <a href="{{site.baseurl}}{{book.url}}">
+                 <img class="w-100" src="{% if book.image contains "://" %}{{ book.image }}{% else %}{{ book.image | absolute_url }}{% endif %}" alt="{{ book.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{book.url}}">{{ book.title }}</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        {{book.author}}                   
+                    </small>
+                    <small class="text-muted">
+                        {{ book.date | date: '%b %d, %Y' }}
+                    </small>
+                </div>
+            </div>
+      {% endfor %}
