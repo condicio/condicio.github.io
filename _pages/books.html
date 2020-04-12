@@ -34,6 +34,9 @@ permalink: /buecher/
                         {{ book.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
+                <p class="excerpt">
+                  {{ book.excerpt | strip_html | strip_newlines | truncate: 136 }}
+              </p>
             </div>
       {% endfor %}
 </div>
