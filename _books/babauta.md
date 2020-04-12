@@ -31,4 +31,4 @@ geholfen, ihre Gewohnheiten zu
 ändern, ihr Leben zu vereinfachen
 und Achtsamkeit zu praktizieren.
 Er lebt in Davis, Kalifornien, mit
-seiner Frau und seinen sechs Kindern
+seiner Frau und seinen sechs Kindern.
