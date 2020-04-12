@@ -3,7 +3,7 @@ layout: post
 title:  "Die Suche nach dem einfachen Leben"
 categories: [ Buch ]
 author: "William J. Dawson"
-image: assets/images/einfaches_leben_mockup.png
+image: assets/images/einfaches_leben_mockup_2.png
 ---
 
 William J. Dawson beschreibt seine Flucht aus einem gewöhnlichen Existenz in der Stadt auf das Land, wo er ein einfacheres und stressfreieres Leben führen möchte. 
