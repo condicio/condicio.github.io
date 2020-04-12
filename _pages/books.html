@@ -10,10 +10,6 @@ permalink: /buecher/
 <h1>Bücher</h1>
 
 
-      
-      
-
-
       {% for book in site.books %}
       <div class="mb-3 d-flex align-items-center">                
                 {% if book.image %}
@@ -33,10 +29,11 @@ permalink: /buecher/
                     <small class="text-muted">
                         {{ book.date | date: '%b %d, %Y' }}
                     </small>
-                </div>
                 <p class="excerpt">
                   {{ book.excerpt | strip_html | strip_newlines | truncate: 136 }}
               </p>
+                </div>
+
             </div>
       {% endfor %}
 </div>
