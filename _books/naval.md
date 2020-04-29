@@ -4,6 +4,7 @@ title:  "Wie man reich wird"
 categories: [ Buch ]
 author: "Naval Ravikant, Babak Nivi"
 pdf: "/assets/books/Ravikant_Nivi_Wie_Man_Reich_Wird.pdf"
+epub: "/assets/books/Ravikant_Nivi_Wie_Man_Reich_Wird.epub"
 image: assets/images/reich_mockup_19.png
 ---
 
