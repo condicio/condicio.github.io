@@ -22,7 +22,5 @@ Der wichtigste Mutmacher und Leitfaden für alle, die von einem erfüllterem Leb
 
 ## Über den Autor
 
-![William J. Dawson](/assets/images/William_James_Dawson.jpg){: style="float: right;height:150px;margin-left:20px;"}
-
 
 William James Dawson war ein englischer Geistlicher und Autor der von 1854 bis 1928 lebte.
