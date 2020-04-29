@@ -3,7 +3,7 @@ layout: bookfree
 title:  "Wie man reich wird"
 categories: [ Buch ]
 author: "Naval Ravikant, Babak Nivi"
-pdf: "/assets/books/ravikant_nivi_wie_man_reich_wird.pdf"
+pdf: "/assets/books/Ravikant_Nivi_Wie_Man_Reich_Wird.pdf"
 image: assets/images/reich_mockup_19.png
 ---
 
