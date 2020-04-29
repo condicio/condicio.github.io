@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bookpre
 title:  "Achtsamkeit: eine kurze Einführung"
 categories: [ Buch ]
 author: "Leo Babauta"
