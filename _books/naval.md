@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: bookfree
 title:  "Wie man reich wird"
 categories: [ Buch ]
 author: "Naval Ravikant, Babak Nivi"
