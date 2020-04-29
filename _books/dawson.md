@@ -1,24 +1,24 @@
 ---
-layout: post
+layout: bookpre
 title:  "Die Suche nach dem einfachen Leben"
 categories: [ Buch ]
 author: "William J. Dawson"
 image: assets/images/einfaches_leben_mockup_2.png
 ---
 
-William J. Dawson beschreibt seine Flucht aus einem gewöhnlichen Existenz in der Stadt auf das Land, wo er ein einfacheres und stressfreieres Leben führen möchte. 
+Wer träumt nicht manchmal davon all den Lärm und die Hektik, all die künstlichen Komplexitäten des modernen Lebens hinter sich zu lassen und ein einfacheres Leben im Einklang mit der Natur zu
+beginnen?
 
-Der Autor, erzählt von seinen Erfahrungen als Büroangestellter in der Londoner City. Gelangweilt und unerfüllt von seinem täglichen Leben, wünscht er sich, aufs Land zu ziehen und in einer ländlichen Umgebung neu anzufangen. Dawson erzählt von seinem Alltag, seinem Buchhaltungsjob, der sich wiederholt und wenig kreatives Denken zulässt, und schließlich von seinem Verlust des Arbeitsplatzes, den er schlussendlich als Chance versteht. Es berichtet von seiner Suche nach einem neuen Zuhause auf dem Land, der Wiederansiedlung seiner Familie und der Gewöhnung an die Bräuche und die Kultur der ländlichen Umgebung.
+William James Dawson zeigt in diesem Buch dass es nicht bei einem Traum bleiben muss.
 
-Obwohl die Dilemmata, die dem Autor auf dieser Reise begegnen, dem Leser bekannt sein werden, hauchen William Dawsons klare Erläuterungen der praktischen Aspekte dieser Vision seiner Geschichte Leben ein.
-
+Der wichtigste Mutmacher und Leitfaden für alle, die von einem erfüllterem Leben träumen seit Thoreaus "Walden". 
 
 
 ## Das Wichtigste in Kürze
 
-- **Erscheinungsdatum: 1. Mai 2020**
-- **Seiten: 180**
-- **Preis: 14.99 €**
+- **Erscheinungsdatum: 	27.04.2020**
+- **Seiten: 316**
+- **Preis: 15,99 €**
 
 ## Über den Autor
 
