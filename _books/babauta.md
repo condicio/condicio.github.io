@@ -6,19 +6,23 @@ author: "Leo Babauta"
 image: assets/images/achtsamkeit_mockup2.png
 ---
 
-Dieses Buch zeigt ihnen wie Achtsamkeit der Schlüssel dazu ist, alles in Ihrem Leben zu verändern. Und es hilft Ihnen, Achtsamkeit zu trainieren, um mit allen Schwierigkeiten umzugehen, denen Sie begegnen. Dieses kurze Buch (Sie können es in einer einzigen Sitzung lesen) enthält Übungen, mit denen Sie alles lernen, was Sie wissen müssen, um die grundlegenden Konzepte der Achtsamkeit zu verstehen.
+Achtsamkeit ist der Schlüssel um alles in ihrem Leben zu ändern. In diesem kurzen Buch erläutert Leo Babauta warum diese Aussage, auch wenn sie abgedroschen klingen mag, wahr ist und wie sie diese Erkenntnis in der Praxis nutzen können.
+
+Allerdings vermeidet er es, im Gegensatz zu den meisten anderen Autoren, unrealistische Erwartungen ("lebe nur noch in der Gegenwart", "fühle unendliche Glücksgefühle") zu wecken. Die erklärten Ziele, wie das nachhaltige Ändern von Gewohnheiten und die Verbesserung der Konzentrationsfähigkeit, sind unmittelbar und für jeden erreichbar.
+
+Außerdem verzichtet er auf spirituelle oder religiöse Referenzen. Stattdessen liegt der Fokus ausschließlich auf detaillierten Beschreibungen der wichtigsten Achtsamkeitsübungen und Hilfestellungen zum Umgang mit gängigen Problemen. 
 
 
 
 ## Das Wichtigste in Kürze
 
-- **Erscheinungsdatum: 1. Mai 2020**
-- **Seiten: 80**
-- **Preis: 9.99**
+- **Erscheinungsdatum: 27.04.2020**
+- **Seiten: 102**
+- **Preis: 7,99€**
 
 ## Über den Autor
 
-![Leo Babauta](/assets/images/leo2.jpg){: style="float: right;height:150px;margin-left:20px;"}
+![Leo Babauta](/assets/images/leo.jpeg){: style="float: right;height:150px;margin-left:20px;"}
 
 
 Leo Babauta ist der Gründer des
