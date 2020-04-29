@@ -4,6 +4,8 @@ title:  "Die Widerlegung der Externen Welt"
 categories: [ Buch ]
 author: "Göran Backlund"
 image: assets/images/widerlegung_mockup_19.png
+amazon: "https://www.amazon.de/dp/3948763119/"
+thalia: "https://www.thalia.de/shop/home/artikeldetails/ID148163026.html"
 ---
 
 Wie können wir uns sicher sein, dass das was wir wahrnehmen
