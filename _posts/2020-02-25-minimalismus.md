@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: translation
 title:  "Minimalismus: das schlanke Leben"
 author: "Leo Babauta"
 categories: [ Selbstverwirklichung ]
