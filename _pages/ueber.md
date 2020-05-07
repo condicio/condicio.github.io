@@ -7,7 +7,9 @@ description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich se
 slug: ueber
 ---
 
-Conditio humana ist ein Maß für unsere Unwissenheit in Bezug auf das, was wir über uns selbst als "eine Lebensform in ihrem Konfigurationsraum" wissen. Wir alle verbringen die Zeit zwischen Geburt und Tod  als Menschen auf einem kleinen, blauen Planeten namens Erde. Allerdings gibt es unendlich viele Szenarien, die sich zwischen diesen beiden Meilensteinen abspielen können. 
+"Wenn Sie in Frankreich leben, sollten Sie dann nicht Französisch lernen? Wenn Sie in der Computerwelt leben, sollten Sie dann nicht Informatik lernen? Und wenn Sie unter Menschen leben, sollten Sie dann nicht auch etwas über den menschlichen Zustand, die condicio humana, lernen?
+
+Condicio humana ist ein Maß für unsere Unwissenheit in Bezug auf das, was wir über uns selbst als "eine Lebensform in ihrem Konfigurationsraum" wissen. Wir alle verbringen die Zeit zwischen Geburt und Tod  als Menschen auf einem kleinen, blauen Planeten namens Erde. Allerdings gibt es unendlich viele Szenarien, die sich zwischen diesen beiden Meilensteinen abspielen können. 
 
 Jedoch wenn man sich nicht selbst entscheidet wie man die Welt und sich selbst betrachten möchte, welchen Lebensweg man einschlägt, und mit wem man seine Zeit verbingt, werden andere diese Aufgabe übernehmen. Ohne bewusste Entscheidungen verschwendet man seine Zeit an Dinge, die man weder mag noch selbst gewählt hat.
 
