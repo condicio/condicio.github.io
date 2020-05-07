@@ -5,7 +5,8 @@ author: "Leo Babauta"
 categories: [ Selbstverwirklichung ]
 image: assets/images/minimalismus.png
 tags: [empfehlung]
-
+originalurl: "https://mnmlist.com/lean/"
+originaltitle: "minimalism: the lean life"
 --- 
 
 
