@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bookpre
 title:  "Die Freude nicht zu denken"
 categories: [ Buch ]
 author: "Tim Grimes"
