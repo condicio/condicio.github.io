@@ -21,5 +21,7 @@ image: assets/images/nicht_denken_mockup_6.png
 ![Tim Grimes](/assets/images/tim.jpg){: style="float: right;height:150px;margin-left:20px;"}
 
 
-Tim Grimes ist Berater und
-Autor mehrerer BestsellerRatgeber zum Thema Stressmanagement.
+Tim Grimes ist Berater und Autor mehrerer BestsellerRatgeber zum Thema Stressmanagement.
+
+*Coverabbildung:* © Nickvector/Shutterstock
+
