@@ -1,6 +1,6 @@
 ---
 layout: bookpre
-title:  "Jeder ist jetzt Autor: Was das Internet für die Gegenwart und Zukunft der Menschheit bedeutet"
+title:  "Jeder ist jetzt Autor"
 categories: [ Buch ]
 author: "Andrey Miroshnichenko"
 image: assets/images/autor_mockup2.png
