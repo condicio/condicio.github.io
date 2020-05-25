@@ -43,4 +43,4 @@ Er arbeitete mehr als zwanzig Jahre lang als Redakteur,  veröffentlichte anschl
 
 Er ist derzeit Doktorand in Kommunikation und Kultur an der York University, Toronto, mit den Schwerpunkten Medienökologie, Auswirkungen der neuen Medien und gefälschte Nachrichten. Seine frühere Dissertation in Journalismus und Linguistik befasste sich mit semantischen und linguistischen Strukturen der Propaganda (1996). In seinen Büchern untersucht er eine Reihe von medienbezogenen Ideen in den Bereichen Linguistik, Politik, PR, Unternehmenskommunikation, Journalismus, Transhumanismus und Singularität.
 
-*Coverabbildung:* rastudio/freepik.com
+*Coverabbildung:* © rastudio/freepik.com
