@@ -4,6 +4,7 @@ title:  "Achtsamkeit: eine kurze Einführung"
 categories: [ Buch ]
 author: "Leo Babauta"
 image: assets/images/achtsamkeit_mockup2.png
+permalink: /achtsamkeit/
 ---
 
 Achtsamkeit ist der Schlüssel um alles in ihrem Leben zu ändern. In diesem kurzen Buch erläutert Leo Babauta warum diese Aussage, auch wenn sie abgedroschen klingen mag, wahr ist und wie sie diese Erkenntnis in der Praxis nutzen können.
