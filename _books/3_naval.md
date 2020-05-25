@@ -20,8 +20,8 @@ Mit Thesen wie diesen inspiriert Naval Ravikant seit Jahren tausende Menschen in
 
 ## Das Wichtigste in Kürze
 
-- **Erscheinungsdatum: 1. April 2020**
-- **Seiten: 155**
+- **Erscheinungsdatum: 1. Juni 2020**
+- **Seiten: 266**
 - **Preis: Gratis**
 
 ## Über die Autoren
@@ -34,5 +34,7 @@ Naval Ravikant ist Mitbegründer der Unternehmen AngelList und Epinions. Er ist 
 ![Babak Nivi](/assets/images/nivsmall.png){: style="float: right;height:150px;margin-left:20px;"}
 
 Babak Nivi ist ebenfalls ein Mitbegründer von AngelList und veröffentlichte früher gemeinsam mit Naval Ravikant den populären Venture Hacks Blog.
+
+*Coverabbildung:* Iwat1929/Freepik.com
 
 
