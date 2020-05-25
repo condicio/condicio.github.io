@@ -18,7 +18,7 @@ Neben einer scharfsinnigen Analyse ist Miroshnichenkos Buch aber vor allem ein A
 
  
 
-** Stimmen zum Buch**
+**Stimmen zum Buch**
 
  
 
