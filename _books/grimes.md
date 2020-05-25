@@ -13,8 +13,8 @@ image: assets/images/nicht_denken_mockup_6.png
 ## Das Wichtigste in Kürze
 
 - **Erscheinungsdatum: 1. Mai 2020**
-- **Seiten: 80**
-- **Preis: 9.99**
+- **Seiten: 83**
+- **Preis: 3.99**
 
 ## Über den Autor
 
