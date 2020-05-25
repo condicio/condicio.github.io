@@ -37,3 +37,5 @@ geholfen, ihre Gewohnheiten zu
 und Achtsamkeit zu praktizieren.
 Er lebt in Davis, Kalifornien, mit
 seiner Frau und seinen sechs Kindern.
+
+*Coverabbildung:* © stockdevil/freepik.com
