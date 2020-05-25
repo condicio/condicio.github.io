@@ -7,7 +7,7 @@ description: Wenn man sich nicht selbst entscheidet wie man die Welt und sich se
 slug: ueber
 ---
 
-"Wenn Sie in Frankreich leben, sollten Sie dann nicht Französisch lernen? Wenn Sie in der Computerwelt leben, sollten Sie dann nicht Informatik lernen? Und wenn Sie unter Menschen leben, sollten Sie dann nicht auch etwas über den menschlichen Zustand, die condicio humana, lernen?
+Wenn Sie in Frankreich leben, sollten Sie dann nicht Französisch lernen? Wenn Sie in der Computerwelt leben, sollten Sie dann nicht Informatik lernen? Und wenn Sie unter Menschen leben, sollten Sie dann nicht auch etwas über den menschlichen Zustand, die condicio humana, lernen?
 
 Es spielt keine Rolle, wie reich Sie sind, wie schön Sie sind, wie intelligent Sie sind, oder  arm, wie mittellos wie krank Sie sind. Jeder kämpft mit dem Leben. Das ist der menschliche Zustand, die condicio humana.
 
