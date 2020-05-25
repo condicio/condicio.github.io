@@ -4,6 +4,7 @@ title:  "Die Suche nach dem einfachen Leben"
 categories: [ Buch ]
 author: "William J. Dawson"
 image: assets/images/einfaches_leben_mockup_2.png
+permalink: /suche_nach_dem_einfachen_leben/
 ---
 
 Wer träumt nicht manchmal davon all den Lärm und die Hektik, all die künstlichen Komplexitäten des modernen Lebens hinter sich zu lassen und ein einfacheres Leben im Einklang mit der Natur zu
