@@ -35,6 +35,6 @@ Naval Ravikant ist Mitbegründer der Unternehmen AngelList und Epinions. Er ist 
 
 Babak Nivi ist ebenfalls ein Mitbegründer von AngelList und veröffentlichte früher gemeinsam mit Naval Ravikant den populären Venture Hacks Blog.
 
-*Coverabbildung:* Iwat1929/Freepik.com
+*Coverabbildung:* © Iwat1929/Freepik.com
 
 
