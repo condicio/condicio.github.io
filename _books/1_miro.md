@@ -42,3 +42,5 @@ Andrey Miroshnichenko ist Medienfuturologe und Journalist.
 Er arbeitete mehr als zwanzig Jahre lang als Redakteur,  veröffentlichte anschließend das Buch ''Wenn Zeitungen sterben''  und ließ den Journalismus hinter sich. Seit 2010 arbeitet er als Medientheoretiker, Berater und Kolumnist für verschiedene Medien. Er ist Koordinatorin für die Russische Vereinigung der Zukunftsforscher und Fulbright-Kennan-Stipendiatin (Wilson Center in Washington, DC, 2012-13). 
 
 Er ist derzeit Doktorand in Kommunikation und Kultur an der York University, Toronto, mit den Schwerpunkten Medienökologie, Auswirkungen der neuen Medien und gefälschte Nachrichten. Seine frühere Dissertation in Journalismus und Linguistik befasste sich mit semantischen und linguistischen Strukturen der Propaganda (1996). In seinen Büchern untersucht er eine Reihe von medienbezogenen Ideen in den Bereichen Linguistik, Politik, PR, Unternehmenskommunikation, Journalismus, Transhumanismus und Singularität.
+
+*Coverabbildung:* rastudio/freepik.com
