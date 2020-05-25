@@ -4,6 +4,7 @@ title:  "Wo gibt es hier eigentlich WLAN?"
 categories: [ Buch ]
 author: "Kayla Kurin"
 image: assets/images/wifimockup4.png
+permalink: /wlan/
 ---
 
 Seit über sieben Jahren reist Kayla Kurin durch die Welt, und hat in dieser Zeit  in über vierzig verschiedenen Ländern gelebt und gearbeitet.  Da ihr eine Menge Fragen über ihren Lebensstil gestellt wurden, beschloss sie, ein Buch darüber zu schreiben. Wenn Sie daran interessiert sind, das Leben eines Digitalen-Nomaden kennen zu lernen, wird sie Ihnen alles beibringen was sie weiß. Außerdem berichtet sie darüber wie es ist, allein in über vierzig Länder zu reisen. 
@@ -19,9 +20,9 @@ Dieses Buch ist frei von falschen Versprechungen darüber, wie einfach es sein w
 
 ## Das Wichtigste in Kürze
 
-- **Erscheinungsdatum: 1. Juni 2020**
-- **Seiten: 220**
-- **Preis: 19,99€**
+- **Erscheinungsdatum: 1. Oktober 2020**
+- **Seiten: 420**
+- **Preis: 14,99€**
 
 ## Über die Autorin
 
@@ -30,6 +31,7 @@ Dieses Buch ist frei von falschen Versprechungen darüber, wie einfach es sein w
 
 Kayla Kurin ist Schriftstellerin, Yogi und ständig auf Reisen. Ursprünglich stammt sie aus Kanada und hat mittlerweile in über 40 Ländern gelebt und gearbeitet. 
 
+*Coverabbildung:* © andy taufik gunawan/Shutterstock
 
 
 
