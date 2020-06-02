@@ -5,7 +5,7 @@ categories: [ Buch ]
 author: "Andrey Miroshnichenko"
 image: assets/images/autor_mockup2.png
 permalink: /jeder_ist_jetzt_autor/
-amazon: "https://www.amazon.de/dp/3948763119/"
+amazon: "https://amzn.to/2BoxrbT"
 thalia: "https://www.thalia.de/shop/home/artikeldetails/ID148517344.html"
 ---
 
