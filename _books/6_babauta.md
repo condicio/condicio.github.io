@@ -5,6 +5,8 @@ categories: [ Buch ]
 author: "Leo Babauta"
 image: assets/images/achtsamkeit_mockup2.png
 permalink: /achtsamkeit/
+amazon: "https://amzn.to/3cq7MMP"
+thalia: "https://www.thalia.de/shop/home/artikeldetails/ID148470799.html"
 ---
 
 Achtsamkeit ist der Schlüssel um alles in ihrem Leben zu ändern. In diesem kurzen Buch erläutert Leo Babauta warum diese Aussage, auch wenn sie abgedroschen klingen mag, wahr ist und wie sie diese Erkenntnis in der Praxis nutzen können.
