@@ -1,10 +1,12 @@
 ---
-layout: bookpre
+layout: book
 title:  "Jeder ist jetzt Autor"
 categories: [ Buch ]
 author: "Andrey Miroshnichenko"
 image: assets/images/autor_mockup2.png
 permalink: /jeder_ist_jetzt_autor/
+amazon: "https://www.amazon.de/dp/3948763119/"
+thalia: "https://www.thalia.de/shop/home/artikeldetails/ID148517344.html"
 ---
 
 *Wieso erreichen uns jeden Tag die richtigen Informationen, obwohl das Internet voller Müll ist? Kann man im Internet überhaupt existieren, ohne Inhalte zu veröffentlichen? Und was treibt Menschen eigentlich dazu an, im Internet aktiv zu werden?*
